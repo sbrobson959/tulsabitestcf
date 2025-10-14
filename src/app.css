@@ -1,0 +1,22 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'Graebenbach';
+  src: url('/Graebenbach-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'TheNeue';
+  src: url('/TheNeue-Black.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --font-display: 'Graebenbach', sans-serif;
+  --font-title: 'TheNeue', sans-serif;
+}
