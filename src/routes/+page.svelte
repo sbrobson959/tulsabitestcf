@@ -8,5 +8,5 @@
 		<p class="-mt-1 pl-px ml-auto text-sm text-gray-400">Last Updated: October 13, 2025</p>
 		</div>
 	</header>
-	<iframe class="w-full grow bg-black" src="/bites.html" title="Kepler"></iframe>
+	<iframe class="w-full grow bg-black" src="/bites_updated.html" title="Kepler"></iframe>
 </div>
