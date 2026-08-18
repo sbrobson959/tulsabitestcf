@@ -1,3 +1,5 @@
+import { PUBLIC_MAPBOX_TOKEN } from '$env/static/public';
+
 export type BasemapDef = {
 	id: string;
 	label: string;
@@ -8,8 +10,7 @@ export type BasemapDef = {
 	uiTheme: 'light' | 'dark';
 };
 
-export const MAPBOX_TOKEN: string =
-	(import.meta.env as { PUBLIC_MAPBOX_TOKEN?: string }).PUBLIC_MAPBOX_TOKEN ?? '';
+export const MAPBOX_TOKEN: string = PUBLIC_MAPBOX_TOKEN ?? '';
 
 export const DEFAULT_BASEMAP = 'default';
 
