@@ -804,7 +804,7 @@
 ></div>
 {#snippet popoverBody(tip: NonNullable<typeof tooltip>)}
 	{#if tip.rec}
-		<div class="mb-1 flex items-baseline justify-between gap-3 pr-6">
+		<div class="mb-1 flex items-baseline justify-between gap-3">
 			<span class="text-sm font-semibold text-gray-900 dark:text-gray-100"
 				>Bite {tip.rec.bite_id}</span
 			>
