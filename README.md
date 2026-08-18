@@ -73,7 +73,7 @@ cp data/data.json           src/lib/server/pipeline/seed/data.json
    ```
 3. Deploy. The cron is defined in `vercel.json` (schedule `0 13 * * 1`).
    - `CRON_SECRET` is sent by Vercel Cron as `Authorization: Bearer …`; the endpoint rejects anything else.
-   - `maxDuration: 300` in `vercel.json` gives the update function headroom (60s cap on the free Hobby plan — fine for incremental runs since the cache is seeded; the first-ever run on a fresh store is the only long one).
+   - `maxDuration: 300` (set via `export const config` in `src/routes/api/update/+server.ts`) gives the update function headroom (60s cap on the free Hobby plan — fine for incremental runs since the cache is seeded; the first-ever run on a fresh store is the only long one).
 
 You can also trigger a manual update (works from anywhere with the secret):
 

@@ -27,10 +27,5 @@
 			"path": "/api/update",
 			"schedule": "0 13 * * 1"
 		}
-	],
-	"functions": {
-		"api/update.ts": {
-			"maxDuration": 300
-		}
-	}
+	]
 }

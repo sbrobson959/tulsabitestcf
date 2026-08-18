@@ -2,6 +2,8 @@ import { error, text } from '@sveltejs/kit';
 import { runPipeline } from '$lib/server/pipeline/pipeline.js';
 import { withCors, handlePreflight } from '$lib/server/cors.js';
 
+export const config = { maxDuration: 300 };
+
 export async function GET({ request }) {
 	const secret = process.env.CRON_SECRET;
 	// Require the secret to be configured AND to match. If CRON_SECRET is unset in
