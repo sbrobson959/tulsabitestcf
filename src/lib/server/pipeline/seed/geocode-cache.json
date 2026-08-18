@@ -1,0 +1,5006 @@
+{
+	"14405 E 24 PL, Tulsa, OK": {
+		"lat": 36.128990460205,
+		"lng": -95.816481360404,
+		"source": "census"
+	},
+	"11325 E 16 ST, Tulsa, OK": {
+		"lat": 36.139054310821,
+		"lng": -95.850614985498,
+		"source": "census"
+	},
+	"2100 N PITTSBURG AVE, Tulsa, OK": {
+		"lat": 36.183934794282,
+		"lng": -95.931419186779,
+		"source": "census"
+	},
+	"543 E 48 ST N, Tulsa, OK": {
+		"lat": 36.223563870981,
+		"lng": -95.988219274243,
+		"source": "census"
+	},
+	"1702 N OXFORD AVE, Tulsa, OK": {
+		"lat": 36.179930951687,
+		"lng": -95.905858168623,
+		"source": "census"
+	},
+	"5500 S UTICA AVE, Tulsa, OK": {
+		"lat": 36.233183498806,
+		"lng": -95.967401022647,
+		"source": "census"
+	},
+	"1131 N OSWEGO AVE, Tulsa, OK": {
+		"lat": 36.170885314685,
+		"lng": -95.931866290748,
+		"source": "census"
+	},
+	"10954 E 61 ST APT 2322, Tulsa, OK": {
+		"lat": 36.075391912449,
+		"lng": -95.854996480728,
+		"source": "census"
+	},
+	"1400 W BOWEN PL, Tulsa, OK": {
+		"lat": 36.152920738969,
+		"lng": -96.00766078904,
+		"source": "census"
+	},
+	"5164 S HARVARD AVE APT 115, Tulsa, OK": {
+		"lat": 36.088343673281,
+		"lng": -95.940204465408,
+		"source": "census"
+	},
+	"6712 E HASKELL ST, Tulsa, OK": {
+		"lat": 36.164334920896,
+		"lng": -95.901699880356,
+		"source": "census"
+	},
+	"775 E QUEEN ST, Tulsa, OK": {
+		"lat": 36.178633999127,
+		"lng": -95.982363798409,
+		"source": "census"
+	},
+	"2729 S 135 E AVE, Tulsa, OK": {
+		"lat": 36.125072167212,
+		"lng": -95.826497528047,
+		"source": "census"
+	},
+	"828 N BIRMINGHAM PL, Tulsa, OK": {
+		"lat": 36.166560346716,
+		"lng": -95.95268069507,
+		"source": "census"
+	},
+	"2947 W 66 ST, Tulsa, OK": { "lat": 36.067848066365, "lng": -96.02721453499, "source": "census" },
+	"6422 S 107 E AVE, Tulsa, OK": {
+		"lat": 36.071325569374,
+		"lng": -95.857798525919,
+		"source": "census"
+	},
+	"715 N LEWIS PL, Tulsa, OK": {
+		"lat": 36.164756384055,
+		"lng": -95.956935986992,
+		"source": "census"
+	},
+	"3536 E 28 ST, Tulsa, OK": {
+		"lat": 36.122339954095,
+		"lng": -95.937603752894,
+		"source": "census"
+	},
+	"522 N 91 E AVE, Tulsa, OK": {
+		"lat": 36.164768297861,
+		"lng": -95.875576115452,
+		"source": "census"
+	},
+	"227 N 41 W AVE, Tulsa, OK": {
+		"lat": 36.157809384384,
+		"lng": -96.038177651657,
+		"source": "census"
+	},
+	"9721 S 71 E AVE, Tulsa, OK": {
+		"lat": 36.02277144034,
+		"lng": -95.89694868338,
+		"source": "census"
+	},
+	"2200 N EVANSTON PL, Tulsa, OK": {
+		"lat": 36.18529898316,
+		"lng": -95.945943569378,
+		"source": "census"
+	},
+	"127 N ATLANTA AVE, Tulsa, OK": {
+		"lat": 36.162737286137,
+		"lng": -95.955823195871,
+		"source": "census"
+	},
+	"447 S 71 E AVE, Tulsa, OK": {
+		"lat": 36.15625584571,
+		"lng": -95.897803112424,
+		"source": "census"
+	},
+	"6796 E 27 PL, Tulsa, OK": {
+		"lat": 36.123402298574,
+		"lng": -95.899508074476,
+		"source": "census"
+	},
+	"1344 E 37 ST N, TULSA, OK": {
+		"lat": 36.20818898236,
+		"lng": -95.972499348033,
+		"source": "census"
+	},
+	"2125 N BIRMINGHAM AVE, Tulsa, OK": {
+		"lat": 36.184724942427,
+		"lng": -95.953851932278,
+		"source": "census"
+	},
+	"1300 N IRVINGTON AVE, Tulsa, OK": {
+		"lat": 36.173220262566,
+		"lng": -95.913004484607,
+		"source": "census"
+	},
+	"1402 N 72 E AVE, Tulsa, OK": {
+		"lat": 36.175333490275,
+		"lng": -95.896841375164,
+		"source": "census"
+	},
+	"1346 N ATLANTA AVE, Tulsa, OK": {
+		"lat": 36.174348979831,
+		"lng": -95.956148296104,
+		"source": "census"
+	},
+	"4725 S SANTA FE AVE, Tulsa, OK": {
+		"lat": 36.094872365043,
+		"lng": -96.00843894803,
+		"source": "census"
+	},
+	"5153 W 12 ST, Tulsa, OK": { "lat": 36.14327626689, "lng": -96.050399038496, "source": "census" },
+	"1026 N MADISON AVE, Tulsa, OK": {
+		"lat": 36.168494161751,
+		"lng": -95.97952285138,
+		"source": "census"
+	},
+	"3762 W 42 PL, Tulsa, OK": {
+		"lat": 36.101258321021,
+		"lng": -96.034663501196,
+		"source": "census"
+	},
+	"111 N 38 W AVE, Tulsa, OK": {
+		"lat": 36.15628472458,
+		"lng": -96.034775523336,
+		"source": "census"
+	},
+	"14308 E 33 ST, Tulsa, OK": {
+		"lat": 36.114338995886,
+		"lng": -95.817708473781,
+		"source": "census"
+	},
+	"5420 S 41 W AVE, Tulsa, OK": {
+		"lat": 36.084869776999,
+		"lng": -96.038589804565,
+		"source": "census"
+	},
+	"225 MONTCLAIR, Tulsa, OK": {
+		"lat": 36.157817212368,
+		"lng": -95.941489576585,
+		"source": "census"
+	},
+	"11116 E 27 ST, Tulsa, OK": {
+		"lat": 36.124919307411,
+		"lng": -95.852126586732,
+		"source": "census"
+	},
+	"500 E 59 ST N, Tulsa, OK": {
+		"lat": 36.238918703928,
+		"lng": -95.989086994313,
+		"source": "census"
+	},
+	"3800 E 21 PL, Tulsa, OK": {
+		"lat": 36.132658790138,
+		"lng": -95.935291673816,
+		"source": "census"
+	},
+	"3449 S 148 E AVE, Tulsa, OK": {
+		"lat": 36.114118761135,
+		"lng": -95.812101073795,
+		"source": "census"
+	},
+	"4347 S 103 E AVE  APT #38, Tulsa, OK": {
+		"lat": 36.101224656165,
+		"lng": -95.863307247419,
+		"source": "census"
+	},
+	"3146 S 130 E PL, Tulsa, OK": {
+		"lat": 36.117351535771,
+		"lng": -95.830710906976,
+		"source": "census"
+	},
+	"2706 E WOODROW PL, Tulsa, OK": {
+		"lat": 36.186136268496,
+		"lng": -95.951425040855,
+		"source": "census"
+	},
+	"11900 E 22 ST, Tulsa, OK": {
+		"lat": 36.131570305809,
+		"lng": -95.844044548606,
+		"source": "census"
+	},
+	"2400 E TECUMSEH AVE, Tulsa, OK": {
+		"lat": 36.181977820583,
+		"lng": -95.958157354461,
+		"source": "census"
+	},
+	"11031 E 17 PL, Tulsa, OK": {
+		"lat": 36.137250454736,
+		"lng": -95.853595989876,
+		"source": "census"
+	},
+	"4671 N ROCKFORD AVE, Tulsa, OK": {
+		"lat": 36.22180453416,
+		"lng": -95.971090620656,
+		"source": "census"
+	},
+	"4113 E 21 PL, Tulsa, OK": {
+		"lat": 36.132836885599,
+		"lng": -95.931257206246,
+		"source": "census"
+	},
+	"1623 S 121 E AVE, Tulsa, OK": {
+		"lat": 36.138482178165,
+		"lng": -95.842144323903,
+		"source": "census"
+	},
+	"600 E 47 PL N, Tulsa, OK": {
+		"lat": 36.222641843753,
+		"lng": -95.986675750526,
+		"source": "census"
+	},
+	"553 E 59 ST N, Tulsa, OK": {
+		"lat": 36.23884231788,
+		"lng": -95.986998478987,
+		"source": "census"
+	},
+	"2400 N MARION AVE, Tulsa, OK": {
+		"lat": 36.188465355689,
+		"lng": -95.934070110116,
+		"source": "census"
+	},
+	"804 E 53 ST N, Tulsa, OK": {
+		"lat": 36.230559423088,
+		"lng": -95.981208217163,
+		"source": "census"
+	},
+	"2316 N NORWOOD PL, Tulsa, OK": {
+		"lat": 36.188172132151,
+		"lng": -95.906342646508,
+		"source": "census"
+	},
+	"4651 S. 26 W AVE, Tulsa, OK": {
+		"lat": 36.09625250308,
+		"lng": -96.021610480822,
+		"source": "census"
+	},
+	"105 S WHEELING AVE, Tulsa, OK": {
+		"lat": 36.158499973994,
+		"lng": -95.964600361365,
+		"source": "census"
+	},
+	"1050 E 61 ST  #86, Tulsa, OK": {
+		"lat": 36.075185911982,
+		"lng": -95.979323223479,
+		"source": "census"
+	},
+	"4434 S 109 E AVE, Tulsa, OK": {
+		"lat": 36.100256233707,
+		"lng": -95.856423525874,
+		"source": "census"
+	},
+	"3218 S HUDSON AVE, Tulsa, OK": {
+		"lat": 36.117575476925,
+		"lng": -95.913566930811,
+		"source": "census"
+	},
+	"407 S PHOENIX AVE, Tulsa, OK": {
+		"lat": 36.149010148449,
+		"lng": -96.005814989461,
+		"source": "census"
+	},
+	"13308 E 37 ST, Tulsa, OK": {
+		"lat": 36.10968475429,
+		"lng": -95.828706181392,
+		"source": "census"
+	},
+	"2217 E 59 ST, Tulsa, OK": { "lat": 36.078960100297, "lng": -95.96026733657, "source": "census" },
+	"4200 S 109 E AVE, Tulsa, OK": {
+		"lat": 36.103510949749,
+		"lng": -95.856626903989,
+		"source": "census"
+	},
+	"459 W 67 ST, Tulsa, OK": { "lat": 36.0671872362, "lng": -95.994672050657, "source": "census" },
+	"3748 N HARTFORD AVE, Tulsa, OK": {
+		"lat": 36.208385142306,
+		"lng": -95.984662552933,
+		"source": "census"
+	},
+	"2700 S 120 E AVE, Tulsa, OK": {
+		"lat": 36.125764900494,
+		"lng": -95.842750417514,
+		"source": "census"
+	},
+	"1918 N FLORENCE PL, Tulsa, OK": {
+		"lat": 36.182282294074,
+		"lng": -95.943330444409,
+		"source": "census"
+	},
+	"2904 S 131 E AVE, Tulsa, OK": {
+		"lat": 36.121764950216,
+		"lng": -95.829843411324,
+		"source": "census"
+	},
+	"7123 S 92 E AVE, Tulsa, OK": {
+		"lat": 36.060641085214,
+		"lng": -95.873523411375,
+		"source": "census"
+	},
+	"4228 S 27 W AVE, TULSA, OK": {
+		"lat": 36.101352946464,
+		"lng": -96.022836685241,
+		"source": "census"
+	},
+	"2715 E. 28 ST. N, Tulsa, OK": {
+		"lat": 36.194398390896,
+		"lng": -95.951140045123,
+		"source": "census"
+	},
+	"827 N COLUMBIA AVE, Tulsa, OK": {
+		"lat": 36.166527866246,
+		"lng": -95.951428676423,
+		"source": "census"
+	},
+	"4100 S 35 W AVE, Tulsa, OK": {
+		"lat": 36.103418110475,
+		"lng": -96.032133095614,
+		"source": "census"
+	},
+	"1308 N DELAWARE PL, Tulsa, OK": {
+		"lat": 36.173691050145,
+		"lng": -95.948743290839,
+		"source": "census"
+	},
+	"7524 E 78 ST, Tulsa, OK": {
+		"lat": 36.050354322792,
+		"lng": -95.892540039108,
+		"source": "census"
+	},
+	"4356 S GARNETT RD, Tulsa, OK": {
+		"lat": 36.101317385839,
+		"lng": -95.851114021389,
+		"source": "census"
+	},
+	"528 S 38 W AVE, Tulsa, OK": {
+		"lat": 36.14948289427,
+		"lng": -96.035542187123,
+		"source": "census"
+	},
+	"1614 E 49 ST N, Tulsa, OK": {
+		"lat": 36.224643670079,
+		"lng": -95.967922395382,
+		"source": "census"
+	},
+	"528 S ZUNIS AVE, Tulsa, OK": {
+		"lat": 36.153253616546,
+		"lng": -95.961018218859,
+		"source": "census"
+	},
+	"500 S 44 W AVE, Tulsa, OK": {
+		"lat": 36.149813057712,
+		"lng": -96.041668575091,
+		"source": "census"
+	},
+	"42 N YORKTOWN AVE, Tulsa, OK": {
+		"lat": 36.161479156426,
+		"lng": -95.962082778038,
+		"source": "census"
+	},
+	"5900 E NEWTON ST, Tulsa, OK": {
+		"lat": 36.173093369046,
+		"lng": -95.91173281983,
+		"source": "census"
+	},
+	"4900 E EASTON ST, Tulsa, OK": {
+		"lat": 36.163952023708,
+		"lng": -95.922452845409,
+		"source": "census"
+	},
+	"5779 S 80 E AVE, Tulsa, OK": {
+		"lat": 36.079886867537,
+		"lng": -95.887253112394,
+		"source": "census"
+	},
+	"11610 E 23 ST, Tulsa, OK": {
+		"lat": 36.129967080113,
+		"lng": -95.846025835502,
+		"source": "census"
+	},
+	"3708 S SOUTHWEST BLVD, Tulsa, OK": {
+		"lat": 36.109142873495,
+		"lng": -96.014560741826,
+		"source": "census"
+	},
+	"1327 N SANTA FE AVE, Tulsa, OK": {
+		"lat": 36.173252043681,
+		"lng": -96.00888107887,
+		"source": "census"
+	},
+	"11296 E 71ST, Tulsa, OK": {
+		"lat": 36.060821543215,
+		"lng": -95.851334913972,
+		"source": "census"
+	},
+	"1044 E 36 ST, Tulsa, OK": {
+		"lat": 36.111524111567,
+		"lng": -95.979261839023,
+		"source": "census"
+	},
+	"4700 S RIVERSIDE PKWY, Tulsa, OK": {
+		"lat": 36.095965319817,
+		"lng": -95.984587886547,
+		"source": "census"
+	},
+	"2627 S 89 E AVE, Tulsa, OK": {
+		"lat": 36.125269007173,
+		"lng": -95.877082099831,
+		"source": "census"
+	},
+	"12312 E 18 ST, Tulsa, OK": {
+		"lat": 36.13682931621,
+		"lng": -95.839692382889,
+		"source": "census"
+	},
+	"6719 S 29 W PL, Tulsa, OK": {
+		"lat": 36.066374137299,
+		"lng": -96.024361008623,
+		"source": "census"
+	},
+	"2224 N DELAWARE AVE, Tulsa, OK": {
+		"lat": 36.186431598202,
+		"lng": -95.949290486471,
+		"source": "census"
+	},
+	"7115 S 77 E AVE, Tulsa, OK": {
+		"lat": 36.058478023773,
+		"lng": -95.891451530742,
+		"source": "census"
+	},
+	"1527 W 44 ST, Tulsa, OK": {
+		"lat": 36.099912950505,
+		"lng": -96.009899057075,
+		"source": "census"
+	},
+	"3128 W EASTON PL, Tulsa, OK": {
+		"lat": 36.159714795795,
+		"lng": -96.027428653287,
+		"source": "census"
+	},
+	"1820 W 62 ST, Tulsa, OK": {
+		"lat": 36.073070388545,
+		"lng": -96.013181671462,
+		"source": "census"
+	},
+	"700 S YORKTOWN AVE, Tulsa, OK": {
+		"lat": 36.163939570601,
+		"lng": -95.962101530931,
+		"source": "census"
+	},
+	"10129 E 32 ST, Tulsa, OK": {
+		"lat": 36.117258908707,
+		"lng": -95.864262945222,
+		"source": "census"
+	},
+	"1430 N KINGSTON AVE, Tulsa, OK": {
+		"lat": 36.175585216577,
+		"lng": -95.910830985188,
+		"source": "census"
+	},
+	"625 E 27 PL N, Tulsa, OK": {
+		"lat": 36.194292158249,
+		"lng": -95.986166401026,
+		"source": "census"
+	},
+	"6736 E INDEPENDENCE PL, TULSA, OK": {
+		"lat": 36.166838092644,
+		"lng": -95.90138841435,
+		"source": "census"
+	},
+	"3607 W 44 PL, Tulsa, OK": {
+		"lat": 36.099159992358,
+		"lng": -96.033056885601,
+		"source": "census"
+	},
+	"516 S 47 W AVE, Tulsa, OK": {
+		"lat": 36.14974064641,
+		"lng": -96.045035273425,
+		"source": "census"
+	},
+	"700 N LEWIS PL, Tulsa, OK": {
+		"lat": 36.164516897162,
+		"lng": -95.957077926332,
+		"source": "census"
+	},
+	"2700 E INDEPENDENCE PL, Tulsa, OK": {
+		"lat": 36.166184899563,
+		"lng": -95.95030675821,
+		"source": "census"
+	},
+	"12525 E 52, Tulsa, OK": { "lat": 36.088228485328, "lng": -95.836984700715, "source": "census" },
+	"4532 N KENOSHA AVE, Tulsa, OK": {
+		"lat": 36.219508822033,
+		"lng": -95.981085431745,
+		"source": "census"
+	},
+	"320 W 48 ST N, Tulsa, OK": {
+		"lat": 36.223366199728,
+		"lng": -95.999393073491,
+		"source": "census"
+	},
+	"3336 E MARSHALL ST, Tulsa, OK": {
+		"lat": 36.17165292807,
+		"lng": -95.939408610356,
+		"source": "census"
+	},
+	"1010 N FLORENCE AVE, Tulsa, OK": {
+		"lat": 36.168308483717,
+		"lng": -95.944861576036,
+		"source": "census"
+	},
+	"549 E 58 ST N, Tulsa, OK": {
+		"lat": 36.238026020414,
+		"lng": -95.988309631222,
+		"source": "census"
+	},
+	"1946 E 26 PL N, TULSA, OK": {
+		"lat": 36.192419301176,
+		"lng": -95.964304354218,
+		"source": "census"
+	},
+	"5938 S SANTA FE AVE, Tulsa, OK": {
+		"lat": 36.077331166213,
+		"lng": -96.008761552821,
+		"source": "census"
+	},
+	"10607 E 26 PL, Tulsa, OK": {
+		"lat": 36.125881828547,
+		"lng": -95.858597321583,
+		"source": "census"
+	},
+	"2143 N MIDLAND TRAIL, Tulsa, OK": {
+		"lat": 36.180892284437,
+		"lng": -95.982952691364,
+		"source": "census"
+	},
+	"4912 W CHARLES PAGE BLVD, Tulsa, OK": {
+		"lat": 36.147959313372,
+		"lng": -96.047398197838,
+		"source": "census"
+	},
+	"10818 E 17 ST, TULSA, OK": {
+		"lat": 36.137954033668,
+		"lng": -95.856265799356,
+		"source": "census"
+	},
+	"5336 E 81 ST, Tulsa, OK": {
+		"lat": 36.046309952529,
+		"lng": -95.914659007315,
+		"source": "census"
+	},
+	"5537 S 78 E AVE, Tulsa, OK": {
+		"lat": 36.084470669462,
+		"lng": -95.888607888354,
+		"source": "census"
+	},
+	"3304 S HUDSON AVE, Tulsa, OK": {
+		"lat": 36.115145347668,
+		"lng": -95.913636506494,
+		"source": "census"
+	},
+	"3216 E WOODROW ST, Tulsa, OK": {
+		"lat": 36.185220478738,
+		"lng": -95.941888349171,
+		"source": "census"
+	},
+	"102 S GARRNETT RD, Tulsa, OK": {
+		"lat": 36.159297252299,
+		"lng": -95.85129977053,
+		"source": "census"
+	},
+	"2839 E 44 PL N, Tulsa, OK": {
+		"lat": 36.21804888716,
+		"lng": -95.947738460983,
+		"source": "census"
+	},
+	"7152 E JASPER ST, Tulsa, OK": {
+		"lat": 36.1676873849,
+		"lng": -95.897389244958,
+		"source": "census"
+	},
+	"5419 E XYLER ST, Tulsa, OK": {
+		"lat": 36.187387685932,
+		"lng": -95.915290771265,
+		"source": "census"
+	},
+	"10964 E 61 ST, Tulsa, OK": {
+		"lat": 36.075393287561,
+		"lng": -95.854912369455,
+		"source": "census"
+	},
+	"1842 N UTICA AVE, Tulsa, OK": {
+		"lat": 36.181510849872,
+		"lng": -95.967787279784,
+		"source": "census"
+	},
+	"100 N OSWEGO AVE, Tulsa, OK": {
+		"lat": 36.162661279542,
+		"lng": -95.931996878773,
+		"source": "census"
+	},
+	"1029 N GARY AVE, Tulsa, OK": {
+		"lat": 36.16899252627,
+		"lng": -95.942492083826,
+		"source": "census"
+	},
+	"1227 S 101 E AVE, Tulsa, OK": {
+		"lat": 36.145824041975,
+		"lng": -95.86446441842,
+		"source": "census"
+	},
+	"6416 S 107 E AVE, TULSA, OK 74133": {
+		"lat": 36.071412366646,
+		"lng": -95.857800359657,
+		"source": "census"
+	},
+	"547 E 40 PL N, TULSA, OK  74106": {
+		"lat": 36.212772989141,
+		"lng": -95.987621229534,
+		"source": "census"
+	},
+	"37 S 67 E AVE, TULSA, OK  74112": {
+		"lat": 36.160358194322,
+		"lng": -95.902259098035,
+		"source": "census"
+	},
+	"3524 E 30 ST, Tulsa, OK": {
+		"lat": 36.120581312588,
+		"lng": -95.937710139328,
+		"source": "census"
+	},
+	"423 S 40 W AVE, Tulsa, OK": {
+		"lat": 36.151533142526,
+		"lng": -96.037613055829,
+		"source": "census"
+	},
+	"10214 E 34 ST, Tulsa, OK": {
+		"lat": 36.115341226312,
+		"lng": -95.862445947399,
+		"source": "census"
+	},
+	"5937 S 76 E AVE, TULSA, OK": {
+		"lat": 36.077077776207,
+		"lng": -95.892013323438,
+		"source": "census"
+	},
+	"911 N ROCKFORD AVE, Tulsa, OK": {
+		"lat": 36.166902533532,
+		"lng": -95.971844376737,
+		"source": "census"
+	},
+	"320 S PHOENIX AVE, Tulsa, OK": {
+		"lat": 36.14997847798,
+		"lng": -96.005943095536,
+		"source": "census"
+	},
+	"3708 SOUTHWEST BLVD, Tulsa, OK": {
+		"lat": 36.109142873495,
+		"lng": -96.014560741826,
+		"source": "census"
+	},
+	"4214 E YOUNG PL, Tulsa, OK": {
+		"lat": 36.189331413347,
+		"lng": -95.929641838567,
+		"source": "census"
+	},
+	"2454 N. BIRMINGHAM PL, Tulsa, OK": {
+		"lat": 36.188849938898,
+		"lng": -95.952724463897,
+		"source": "census"
+	},
+	"5036 E 7 ST, Tulsa, OK": { "lat": 36.150930251418, "lng": -95.919508203088, "source": "census" },
+	"1127 S QUAKER AVE, Tulsa, OK": {
+		"lat": 36.147353808467,
+		"lng": -95.974430008717,
+		"source": "census"
+	},
+	"17 N 89 E AVE, Tulsa, OK": {
+		"lat": 36.160921417358,
+		"lng": -95.877693159883,
+		"source": "census"
+	},
+	"5212 N FRANKFORT AVE, Tulsa, OK": {
+		"lat": 36.229103806698,
+		"lng": -95.989173906063,
+		"source": "census"
+	},
+	"7340 E NEWTON ST, Tulsa, OK": {
+		"lat": 36.172611505276,
+		"lng": -95.89502252772,
+		"source": "census"
+	},
+	"119 N WHEELING AVE, TULSA, OK": {
+		"lat": 36.162662725739,
+		"lng": -95.964610119207,
+		"source": "census"
+	},
+	"1223 N 67 E AVE, Tulsa, OK": {
+		"lat": 36.17203536122,
+		"lng": -95.901624294569,
+		"source": "census"
+	},
+	"5932 E NEWTON ST, Tulsa, OK": {
+		"lat": 36.173078552845,
+		"lng": -95.911384176558,
+		"source": "census"
+	},
+	"7303 E KING PL, Tulsa, OK": {
+		"lat": 36.169422742439,
+		"lng": -95.895547923846,
+		"source": "census"
+	},
+	"6232 E 60 ST, Tulsa, OK": { "lat": 36.07762236756, "lng": -95.90670279179, "source": "census" },
+	"4697 S COLUMBIA AVE, Tulsa, OK": {
+		"lat": 36.094897053605,
+		"lng": -95.951754915704,
+		"source": "census"
+	},
+	"713 N KINGSTON AVE, Tulsa, OK": {
+		"lat": 36.165191809628,
+		"lng": -95.909614710326,
+		"source": "census"
+	},
+	"10 E 46 ST N, Tulsa, OK": {
+		"lat": 36.220418297821,
+		"lng": -95.995628258531,
+		"source": "census"
+	},
+	"1442 N VANDALIA AVE, TULSA, OK": {
+		"lat": 36.176430113155,
+		"lng": -95.924768966609,
+		"source": "census"
+	},
+	"3100 E ARCHER ST, Tulsa, OK": {
+		"lat": 36.162558403199,
+		"lng": -95.944204157985,
+		"source": "census"
+	},
+	"4340 S VANCOUVER AVE, Tulsa, OK": {
+		"lat": 36.100802111627,
+		"lng": -96.012782290405,
+		"source": "census"
+	},
+	"3729 S 29 W AVE, Tulsa, OK": {
+		"lat": 36.10862811432,
+		"lng": -96.025486047503,
+		"source": "census"
+	},
+	"4536 N KENOSHA AVE, Tulsa, OK": {
+		"lat": 36.219566038431,
+		"lng": -95.981099898813,
+		"source": "census"
+	},
+	"3163 CHARLES PAGE BLVD, Tulsa, OK": {
+		"lat": 36.150862823843,
+		"lng": -96.028541653128,
+		"source": "census"
+	},
+	"3159 S 108 E AVE, TULSA, OK": {
+		"lat": 36.117996864072,
+		"lng": -95.856374112278,
+		"source": "census"
+	},
+	"5008 S 35 W AVE, Tulsa, OK": {
+		"lat": 36.091551483663,
+		"lng": -96.031902250976,
+		"source": "census"
+	},
+	"1531 N ATLANTA AVE, Tulsa, OK": {
+		"lat": 36.177541273913,
+		"lng": -95.956440737445,
+		"source": "census"
+	},
+	"439 S 38 W AVE, Tulsa, OK": {
+		"lat": 36.151200011746,
+		"lng": -96.035418034126,
+		"source": "census"
+	},
+	"11026 E 18 ST, Tulsa, OK": {
+		"lat": 36.136290150883,
+		"lng": -95.853489122615,
+		"source": "census"
+	},
+	"1215 W 1 ST, Tulsa, OK": { "lat": 36.152409517525, "lng": -96.00563375944, "source": "census" },
+	"6441 S 32 W AVE, Tulsa, OK": {
+		"lat": 36.069414432216,
+		"lng": -96.027779385144,
+		"source": "census"
+	},
+	"100 N 126 E AVE, Tulsa, OK": {
+		"lat": 36.162563733768,
+		"lng": -95.837031651704,
+		"source": "census"
+	},
+	"1800 W 57 PL, Tulsa, OK": {
+		"lat": 36.080866044271,
+		"lng": -96.012371951596,
+		"source": "census"
+	},
+	"1319 N YALE AVE, Tulsa, OK": {
+		"lat": 36.173836881227,
+		"lng": -95.92242815425,
+		"source": "census"
+	},
+	"10100 E ADIMRAL BLVD, Tulsa, OK": {
+		"lat": 36.159263301954,
+		"lng": -95.865055015931,
+		"source": "census"
+	},
+	"2536 S 96 E PL, Tulsa, OK": {
+		"lat": 36.126071325018,
+		"lng": -95.866288610886,
+		"source": "census"
+	},
+	"2137 N PITTSBURG AVE, TULSA, OK 74115": {
+		"lat": 36.184931166008,
+		"lng": -95.931346855278,
+		"source": "census"
+	},
+	"71 N WHEELING AVE, Tulsa, OK": {
+		"lat": 36.161940461236,
+		"lng": -95.964577776665,
+		"source": "census"
+	},
+	"570 N 39 W AVE, Tulsa, OK": {
+		"lat": 36.159637856885,
+		"lng": -96.036069511898,
+		"source": "census"
+	},
+	"1827 N QUAKER AVE, TULSA, OK 74106": {
+		"lat": 36.181302519938,
+		"lng": -95.974313281855,
+		"source": "census"
+	},
+	"4219 S ZENITH AVE, Tulsa, OK": {
+		"lat": 36.102005795956,
+		"lng": -96.017132532564,
+		"source": "census"
+	},
+	"2020 N DELAWARE AVE, Tulsa, OK": {
+		"lat": 36.183494658402,
+		"lng": -95.949940206351,
+		"source": "census"
+	},
+	"1347 N NORWOOD AVE, Tulsa, OK": {
+		"lat": 36.174480486667,
+		"lng": -95.907326851231,
+		"source": "census"
+	},
+	"2452 N NEW HAVEN AVE, TULSA, OK. 74115": {
+		"lat": 36.189771340235,
+		"lng": -95.933115176839,
+		"source": "census"
+	},
+	"9409 E 65 ST, Tulsa, OK": {
+		"lat": 36.069725309335,
+		"lng": -95.869330612765,
+		"source": "census"
+	},
+	"153 N GARNETT RD, Tulsa, OK": {
+		"lat": 36.164174660527,
+		"lng": -95.851124699282,
+		"source": "census"
+	},
+	"802 N GARY AVE, Tulsa, OK": {
+		"lat": 36.166349345885,
+		"lng": -95.942637330678,
+		"source": "census"
+	},
+	"6207 E LATIMER PL, TULSA,OK 74115, Tulsa, OK": {
+		"lat": 36.170582893562,
+		"lng": -95.908235291341,
+		"source": "census"
+	},
+	"11635 E 16 ST, TULSA, OK": {
+		"lat": 36.13942176773,
+		"lng": -95.847564367312,
+		"source": "census"
+	},
+	"12018 E 28 ST S, Tulsa, OK": {
+		"lat": 36.123724511373,
+		"lng": -95.84249938009,
+		"source": "census"
+	},
+	"5945 S SANTA FE AVE, Tulsa, OK": {
+		"lat": 36.077249333166,
+		"lng": -96.008626915516,
+		"source": "census"
+	},
+	"5020 S 67 E AVE, TULSA, OK": {
+		"lat": 36.091015220016,
+		"lng": -95.902682390717,
+		"source": "census"
+	},
+	"7303 E 15 ST, Tulsa, OK": {
+		"lat": 36.140759679702,
+		"lng": -95.895561080435,
+		"source": "census"
+	},
+	"7444 E 48 ST, Tulsa, OK": {
+		"lat": 36.094661314867,
+		"lng": -95.892182957222,
+		"source": "census"
+	},
+	"6620 E 27 PL, Tulsa, OK": { "lat": 36.12340927109, "lng": -95.901973125457, "source": "census" },
+	"2027 N ATALNTA CT, Tulsa, OK": {
+		"lat": 36.183558489153,
+		"lng": -95.954719341053,
+		"source": "census"
+	},
+	"7113 E KING ST, Tulsa, OK": {
+		"lat": 36.168638497917,
+		"lng": -95.897780467413,
+		"source": "census"
+	},
+	"4112 W 56 PL S, TULSA, OK": {
+		"lat": 36.081734639365,
+		"lng": -96.038676734839,
+		"source": "census"
+	},
+	"6412 E KING ST, Tulsa, OK": {
+		"lat": 36.167963367694,
+		"lng": -95.905638802301,
+		"source": "census"
+	},
+	"257 E 53 ST N, Tulsa, OK": {
+		"lat": 36.230620159538,
+		"lng": -95.992527262863,
+		"source": "census"
+	},
+	"4398 W 57 ST, Tulsa, OK": { "lat": 36.080791896983, "lng": -96.04154108079, "source": "census" },
+	"6736 E 27 PL, TULSA, OK": {
+		"lat": 36.123400042601,
+		"lng": -95.899931825473,
+		"source": "census"
+	},
+	"10109 E 4 PL, Tulsa, OK": {
+		"lat": 36.155309085038,
+		"lng": -95.865579499886,
+		"source": "census"
+	},
+	"4106 S 130 E AVE, TULSA, OK": {
+		"lat": 36.104184927305,
+		"lng": -95.832219404269,
+		"source": "census"
+	},
+	"5115 E 47TH PL, TULSA, OK 74135": {
+		"lat": 36.094919907639,
+		"lng": -95.919838966001,
+		"source": "census"
+	},
+	"557 E 49 ST N, TULSA, OK 74126": {
+		"lat": 36.225143458334,
+		"lng": -95.987205997127,
+		"source": "census"
+	},
+	"547 E 49TH ST N, TULSA OK 74126": {
+		"lat": 36.225144561097,
+		"lng": -95.987514766429,
+		"source": "census"
+	},
+	"4443.5 N PEORIA AVE, TULSA, OK 74106": {
+		"lat": 36.162376473234,
+		"lng": -95.975550020893,
+		"source": "census"
+	},
+	"901 N ELGIN AVE APT 303, TULSA, OK 74106": {
+		"lat": 36.166740129753,
+		"lng": -95.991223273465,
+		"source": "census"
+	},
+	"424 S 70TH E AVE, TULSA, OK 74112": {
+		"lat": 36.156672000291,
+		"lng": -95.899054106832,
+		"source": "census"
+	},
+	"1324 E ALLEGHENY AVE, Tulsa, OK": {
+		"lat": 36.143711977667,
+		"lng": -95.92143203966,
+		"source": "census"
+	},
+	"2507 S 125 E AVE, TULSA, OK": {
+		"lat": 36.127296288921,
+		"lng": -95.83707709744,
+		"source": "census"
+	},
+	"1547 N COLUMBIA PL, Tulsa, OK": {
+		"lat": 36.178011266495,
+		"lng": -95.950912847823,
+		"source": "census"
+	},
+	"1609 E 49 ST N, Tulsa, OK": {
+		"lat": 36.224761473754,
+		"lng": -95.967866056264,
+		"source": "census"
+	},
+	"2231 N ERIE AVE, TULSA, OK 74115": {
+		"lat": 36.18640082519,
+		"lng": -95.916149729527,
+		"source": "census"
+	},
+	"422 E 28 ST, Tulsa, OK": { "lat": 36.123781262212, "lng": -95.980784431638, "source": "census" },
+	"6320 E 32 ST, Tulsa, OK": {
+		"lat": 36.117526623042,
+		"lng": -95.905746074319,
+		"source": "census"
+	},
+	"4338 N GARRISON PL, TULSA, OK": {
+		"lat": 36.216941777525,
+		"lng": -95.985731985365,
+		"source": "census"
+	},
+	"4344 S VANCOUVER AVE, Tulsa, OK": {
+		"lat": 36.100746286206,
+		"lng": -96.012785875528,
+		"source": "census"
+	},
+	"6916 E 16 ST S, TULSA, OK 74112": {
+		"lat": 36.13900735415,
+		"lng": -95.900363689796,
+		"source": "census"
+	},
+	"725 N COLUMBIA AVE, Tulsa, OK": {
+		"lat": 36.165201966401,
+		"lng": -95.951421380471,
+		"source": "census"
+	},
+	"1526 S YORKTOWN AVE, TULSA, OK 74104": {
+		"lat": 36.139640046654,
+		"lng": -95.962109948751,
+		"source": "census"
+	},
+	"3127 N IROQUOIS AVE, TULSA, OK": {
+		"lat": 36.199542152387,
+		"lng": -95.983095792862,
+		"source": "census"
+	},
+	"11204 E ARCHER PL, TULSA, OK 74116": {
+		"lat": 36.163706865817,
+		"lng": -95.852661718218,
+		"source": "census"
+	},
+	"10310 E 11 ST, TULSA, OK 74128": {
+		"lat": 36.147941151117,
+		"lng": -95.862574720639,
+		"source": "census"
+	},
+	"4831 S 30 W AVE, TULSA, OK 74107": {
+		"lat": 36.093237913355,
+		"lng": -96.026120597716,
+		"source": "census"
+	},
+	"5910 E 11 ST, Tulsa, OK": {
+		"lat": 36.147842306334,
+		"lng": -95.910573065932,
+		"source": "census"
+	},
+	"5317 E 17 ST, TULSA, OK 74114": {
+		"lat": 36.13829170161,
+		"lng": -95.917052195785,
+		"source": "census"
+	},
+	"5918 E MARSHALL ST, Tulsa, OK": {
+		"lat": 36.171364054788,
+		"lng": -95.911521352218,
+		"source": "census"
+	},
+	"1763 E 57 ST, TULSA, OK 74105": {
+		"lat": 36.081341881323,
+		"lng": -95.966160467572,
+		"source": "census"
+	},
+	"3733 S 96 E AVE, TULSA, OK 74145": {
+		"lat": 36.109959040568,
+		"lng": -95.869371132031,
+		"source": "census"
+	},
+	"6700 E 13 ST, Tulsa, OK": { "lat": 36.14425402055, "lng": -95.901842182361, "source": "census" },
+	"7631 E 21, Tulsa, OK": { "lat": 36.133516518707, "lng": -95.892251821578, "source": "census" },
+	"2047 E 51 PL, Tulsa, OK": { "lat": 36.088173352119, "lng": -95.96408263767, "source": "census" },
+	"1003 N QUAKER AVE, Tulsa, OK": {
+		"lat": 36.167915610594,
+		"lng": -95.974283461672,
+		"source": "census"
+	},
+	"4905 W 3 ST, TULSA, OK": { "lat": 36.152824283096, "lng": -96.047318586399, "source": "census" },
+	"309 S 47 W AVE, TULSA, OK 74127": {
+		"lat": 36.153265258536,
+		"lng": -96.044883975041,
+		"source": "census"
+	},
+	"2630 N MAPLEWOOD AVE, Tulsa, OK": {
+		"lat": 36.192747985444,
+		"lng": -95.908585067275,
+		"source": "census"
+	},
+	"3325 S 116 E AVE, Tulsa, OK": {
+		"lat": 36.114765235962,
+		"lng": -95.848230247236,
+		"source": "census"
+	},
+	"4928 E 38 PL S, TULSA, OK 74135": {
+		"lat": 36.10774008707,
+		"lng": -95.921117686226,
+		"source": "census"
+	},
+	"1612 S 131 EAST PLACE, TULSA, OK-OKLAHOMA 74108": {
+		"lat": 36.13988959621,
+		"lng": -95.830463581845,
+		"source": "census"
+	},
+	"2400 N QUEBEC AVE, TULSA, OK": {
+		"lat": 36.188474461742,
+		"lng": -95.929934481718,
+		"source": "census"
+	},
+	"4370 N FRANKFORT PL, Tulsa, OK": {
+		"lat": 36.217582517241,
+		"lng": -95.98794472845,
+		"source": "census"
+	},
+	"2171 N KINGSTON PL, Tulsa, OK": {
+		"lat": 36.186300869967,
+		"lng": -95.90960125814,
+		"source": "census"
+	},
+	"10819 E 4 PL, Tulsa, OK": { "lat": 36.155307826893, "lng": -95.85593527983, "source": "census" },
+	"5600 S 109 E AVE, Tulsa, OK": {
+		"lat": 36.081738615639,
+		"lng": -95.855289457828,
+		"source": "census"
+	},
+	"4115 E 51 ST, Tulsa, OK": {
+		"lat": 36.089897909097,
+		"lng": -95.930778539142,
+		"source": "census"
+	},
+	"125 N 129 E AVE, TULSA, OK 74116": {
+		"lat": 36.161415766262,
+		"lng": -95.833282470986,
+		"source": "census"
+	},
+	"523 E 48 PL N, Tulsa, OK": {
+		"lat": 36.224362640117,
+		"lng": -95.988176590599,
+		"source": "census"
+	},
+	"501 S 46 W AVE, Tulsa, OK": {
+		"lat": 36.149821555383,
+		"lng": -96.043692429496,
+		"source": "census"
+	},
+	"9216 E ADMIRAL PL, Tulsa, OK": {
+		"lat": 36.160649302136,
+		"lng": -95.873367407523,
+		"source": "census"
+	},
+	"1236 N VANDALIA AVE, TULSA, OK 74115": {
+		"lat": 36.172355283648,
+		"lng": -95.92482586785,
+		"source": "census"
+	},
+	"6603 S ZUNIS AVE APT2403, TULSA, OK": {
+		"lat": 36.067309887554,
+		"lng": -95.960278960236,
+		"source": "census"
+	},
+	"4324 N GARRISON AVE, Tulsa, OK": {
+		"lat": 36.216925606009,
+		"lng": -95.986860796062,
+		"source": "census"
+	},
+	"4143 S MADISON PL, Tulsa, OK": {
+		"lat": 36.103573253503,
+		"lng": -95.979123134856,
+		"source": "census"
+	},
+	"1819 S IRVINGTON AVE, Tulsa, OK": {
+		"lat": 36.136280073623,
+		"lng": -95.911937547341,
+		"source": "census"
+	},
+	"5818 S 32 W AVE, TULSA, OK": {
+		"lat": 36.07740519485,
+		"lng": -96.028390067383,
+		"source": "census"
+	},
+	"2039 N FULTON, TULSA, OK 74115": {
+		"lat": 36.183702429115,
+		"lng": -95.914977243183,
+		"source": "census"
+	},
+	"5329 S 76 E AVE, TULSA, OK": {
+		"lat": 36.086864504292,
+		"lng": -95.89107625338,
+		"source": "census"
+	},
+	"603 E 54 ST N, TULSA, OK 74126": {
+		"lat": 36.231393711912,
+		"lng": -95.986199639441,
+		"source": "census"
+	},
+	"100 N GARNETT RD, Tulsa, OK": {
+		"lat": 36.162602495809,
+		"lng": -95.851315573412,
+		"source": "census"
+	},
+	"3725 W 52 ST, TULSA, OK 74107": {
+		"lat": 36.087748306081,
+		"lng": -96.034325842626,
+		"source": "census"
+	},
+	"1011 N ST LOUIS AVE, TULSA, OK": {
+		"lat": 36.168016982725,
+		"lng": -95.970532727059,
+		"source": "census"
+	},
+	"7359 E NEWTON ST, TULSA, OK 74115": {
+		"lat": 36.172715623012,
+		"lng": -95.894765435825,
+		"source": "census"
+	},
+	"2557 E 17 ST, Tulsa, OK": {
+		"lat": 36.137861042778,
+		"lng": -95.954284515479,
+		"source": "census"
+	},
+	"3120 W 36 PL, Tulsa, OK": {
+		"lat": 36.110701901306,
+		"lng": -96.027180835321,
+		"source": "census"
+	},
+	"111 N ERIE AVE, TULSA, OK 74115": {
+		"lat": 36.162856782244,
+		"lng": -95.917001528349,
+		"source": "census"
+	},
+	"1412 N TRENTON AVE, Tulsa, OK": {
+		"lat": 36.175628128205,
+		"lng": -95.969484429548,
+		"source": "census"
+	},
+	"2115 N NORWOOD PL, TULSA, OK": {
+		"lat": 36.184530876968,
+		"lng": -95.906181304173,
+		"source": "census"
+	},
+	"1442 S 73 E AVE, Tulsa, OK": {
+		"lat": 36.141720915018,
+		"lng": -95.895686507184,
+		"source": "census"
+	},
+	"7134 E MARSHALL ST, Tulsa, OK": {
+		"lat": 36.171132565035,
+		"lng": -95.897437188328,
+		"source": "census"
+	},
+	"12406 E 13 PL, Tulsa, OK": {
+		"lat": 36.143517670311,
+		"lng": -95.836864535635,
+		"source": "census"
+	},
+	"5461 E 71 ST, Tulsa, OK": {
+		"lat": 36.060873234121,
+		"lng": -95.916251146943,
+		"source": "census"
+	},
+	"100 E 46 ST N, Tulsa, OK": {
+		"lat": 36.220418297789,
+		"lng": -95.995005921948,
+		"source": "census"
+	},
+	"11104 E 41 ST S, Tulsa, OK": {
+		"lat": 36.104426311098,
+		"lng": -95.852735128072,
+		"source": "census"
+	},
+	"6521 E 28 ST S, Tulsa, OK": {
+		"lat": 36.122790378075,
+		"lng": -95.904084359521,
+		"source": "census"
+	},
+	"2300 E 67 ST, Tulsa, OK": { "lat": 36.065748702757, "lng": -95.95896654164, "source": "census" },
+	"1201 S BRADEN AVE, Tulsa, OK": {
+		"lat": 36.145943421803,
+		"lng": -95.920157373039,
+		"source": "census"
+	},
+	"6362 S 80 E AVE, Tulsa, OK": {
+		"lat": 36.070470390723,
+		"lng": -95.888482227541,
+		"source": "census"
+	},
+	"2512 N BOSTON PL, Tulsa, OK": {
+		"lat": 36.189897717491,
+		"lng": -95.994695960174,
+		"source": "census"
+	},
+	"1417 E WOODROW PL, Tulsa, OK": {
+		"lat": 36.186012611,
+		"lng": -95.973032309407,
+		"source": "census"
+	},
+	"1537 S 121 E AVE, Tulsa, OK": {
+		"lat": 36.13977979454,
+		"lng": -95.841643913765,
+		"source": "census"
+	},
+	"1329 S 87 E AVE, Tulsa, OK": {
+		"lat": 36.143797107625,
+		"lng": -95.880085486794,
+		"source": "census"
+	},
+	"5147 S VANDALIA AVE, Tulsa, OK": {
+		"lat": 36.088903140639,
+		"lng": -95.924358920118,
+		"source": "census"
+	},
+	"1745 E WOODROW ST, Tulsa, OK": {
+		"lat": 36.185274525888,
+		"lng": -95.966578486749,
+		"source": "census"
+	},
+	"121 N BIRMINGHAM AVE, Tulsa, OK": {
+		"lat": 36.163442145717,
+		"lng": -95.953656116239,
+		"source": "census"
+	},
+	"775 1/2 E QUEEN ST, Tulsa, OK": {
+		"lat": 36.178633999127,
+		"lng": -95.982363798409,
+		"source": "census"
+	},
+	"7331 E KING PL, Tulsa, OK": {
+		"lat": 36.169425151309,
+		"lng": -95.895296998644,
+		"source": "census"
+	},
+	"3750 S XENOPHON AVE, Tulsa, OK": {
+		"lat": 36.109267420293,
+		"lng": -96.01501307444,
+		"source": "census"
+	},
+	"105 E 63 ST N, Tulsa, OK": {
+		"lat": 36.244963711282,
+		"lng": -95.995331921751,
+		"source": "census"
+	},
+	"1347 N LEWIS PL, Tulsa, OK": {
+		"lat": 36.174346404239,
+		"lng": -95.957022329324,
+		"source": "census"
+	},
+	"6933 E 5 PL, TULSA, OK": { "lat": 36.153432949987, "lng": -95.899673763703, "source": "census" },
+	"1832 N COLUMBIA AVE, Tulsa, OK": {
+		"lat": 36.181181594144,
+		"lng": -95.952159312493,
+		"source": "census"
+	},
+	"2047 N FULTON AVE, TULSA, OK": {
+		"lat": 36.183788186254,
+		"lng": -95.914976612609,
+		"source": "census"
+	},
+	"1500 N YALE AVE, TULSA, OK 74115": {
+		"lat": 36.177126484858,
+		"lng": -95.922571205011,
+		"source": "census"
+	},
+	"2035 N DARLINGTON PL, TULSA, OK 74115": {
+		"lat": 36.183753843805,
+		"lng": -95.917307982756,
+		"source": "census"
+	},
+	"8947 E 3 PL, TULSA ,OK 74112, Tulsa, OK": {
+		"lat": 36.156628594613,
+		"lng": -95.877005799794,
+		"source": "census"
+	},
+	"4692 N CHEYENNE AVE, Tulsa, OK": {
+		"lat": 36.221653818112,
+		"lng": -95.998096624634,
+		"source": "census"
+	},
+	"1008 N FLORENCE PL, Tulsa, OK": {
+		"lat": 36.168765848914,
+		"lng": -95.943754818182,
+		"source": "census"
+	},
+	"4811 S 192 E AVE, TULSA, OK 74104": {
+		"lat": 36.092498973825,
+		"lng": -95.762402854752,
+		"source": "census"
+	},
+	"8175 E SKELLY DR, Tulsa, OK": {
+		"lat": 36.121965477006,
+		"lng": -95.885531247435,
+		"source": "census"
+	},
+	"1614 E YOUNG ST, TULSA, OK 74110": {
+		"lat": 36.187936288887,
+		"lng": -95.96759464379,
+		"source": "census"
+	},
+	"2656 S SHERIDAN RD, Tulsa, OK": {
+		"lat": 36.12414048682,
+		"lng": -95.904621868899,
+		"source": "census"
+	},
+	"106 N 127 E AVE, Tulsa, OK": {
+		"lat": 36.162613478196,
+		"lng": -95.83547489816,
+		"source": "census"
+	},
+	"3903 S 131 E AVE, TULSA, OK 74134": {
+		"lat": 36.107217031463,
+		"lng": -95.830024166996,
+		"source": "census"
+	},
+	"7760 RIVERSIDE DR, TULSA, OK": {
+		"lat": 36.050939320227,
+		"lng": -95.969595530581,
+		"source": "census"
+	},
+	"1874 E 46 STN, TULSA, OK": { "lat": 36.220409297534, "lng": -95.9900504437, "source": "census" },
+	"7861 E MARSHALL PL, TULSA, OK 74115": {
+		"lat": 36.171909872911,
+		"lng": -95.889630775482,
+		"source": "census"
+	},
+	"5927 E 47 PL, TULSA, OK 74105": {
+		"lat": 36.09484329888,
+		"lng": -95.909269640794,
+		"source": "census"
+	},
+	"6978 E 20 PL, TULSA, OK 74112": {
+		"lat": 36.134867798078,
+		"lng": -95.898118363441,
+		"source": "census"
+	},
+	"417 W 7 ST, Tulsa, OK": { "lat": 36.147927672518, "lng": -95.994030076496, "source": "census" },
+	"9508 E 36 ST, TULSA, OK 74145": {
+		"lat": 36.1121180997,
+		"lng": -95.870246477984,
+		"source": "census"
+	},
+	"539 E 32 ST N, TULSA, OK": {
+		"lat": 36.200572670545,
+		"lng": -95.987047309086,
+		"source": "census"
+	},
+	"6753 E JASPER ST, TULSA, OK 74115": {
+		"lat": 36.167723717627,
+		"lng": -95.901233213949,
+		"source": "census"
+	},
+	"1809 N LOUISVILLE AVE, TULSA, OK 74115": {
+		"lat": 36.180958704303,
+		"lng": -95.936098291236,
+		"source": "census"
+	},
+	"8819 S JOPLIN AVE, TULSA, OK 74137": {
+		"lat": 36.035529262598,
+		"lng": -95.911580065496,
+		"source": "census"
+	},
+	"9851 E 12 ST, Tulsa, OK": {
+		"lat": 36.146228895737,
+		"lng": -95.866271012338,
+		"source": "census"
+	},
+	"5709 E 4 TERR, TULSA, OK 74112": {
+		"lat": 36.156113387254,
+		"lng": -95.913391619906,
+		"source": "census"
+	},
+	"606 S 107 E AVE, Tulsa, OK": {
+		"lat": 36.152808627859,
+		"lng": -95.857396191468,
+		"source": "census"
+	},
+	"1931 N COLUMBIA AVE, TULSA, OK 74110": {
+		"lat": 36.182395186809,
+		"lng": -95.952018692078,
+		"source": "census"
+	},
+	"3524 W 43 PL, TULSA, OK": {
+		"lat": 36.099929021008,
+		"lng": -96.032376498957,
+		"source": "census"
+	},
+	"11544 E 8 ST, TULSA, OK 74128": {
+		"lat": 36.151195883707,
+		"lng": -95.84686265342,
+		"source": "census"
+	},
+	"2023 E YOUNG ST, Tulsa, OK": {
+		"lat": 36.188558712417,
+		"lng": -95.962890781027,
+		"source": "census"
+	},
+	"7007 E HASKELL ST, TULSA, OK": {
+		"lat": 36.164414076629,
+		"lng": -95.898874693232,
+		"source": "census"
+	},
+	"1031 N LOUISVILLE AVE, TULSA, OK": {
+		"lat": 36.169233900785,
+		"lng": -95.935625707864,
+		"source": "census"
+	},
+	"4976 N HARTFORD AVE, Tulsa, OK": {
+		"lat": 36.226442638568,
+		"lng": -95.984590970058,
+		"source": "census"
+	},
+	"2817 S 116 E AVE, Tulsa, OK": {
+		"lat": 36.121903599427,
+		"lng": -95.847542305242,
+		"source": "census"
+	},
+	"10540 E 11 ST, Tulsa, OK": { "lat": 36.147939843583, "lng": -95.859745415, "source": "census" },
+	"6368 W 11 PL, Tulsa, OK": { "lat": 36.141785315253, "lng": -96.06256826646, "source": "census" },
+	"415 W ARCHER ST, Tulsa, OK": {
+		"lat": 36.155670576793,
+		"lng": -95.998137458859,
+		"source": "census"
+	},
+	"2210 N ERIE AVE TULSA OK": {
+		"lat": 36.186146546547,
+		"lng": -95.916295902546,
+		"source": "census"
+	},
+	"2236 N VICTOR AVE, Tulsa, OK": {
+		"lat": 36.186771336914,
+		"lng": -95.966613354441,
+		"source": "census"
+	},
+	"4710 N ELWOOD AVE, Tulsa, OK": {
+		"lat": 36.222193134422,
+		"lng": -96.000841340295,
+		"source": "census"
+	},
+	"3118 S 115 E AVE, Tulsa, OK": {
+		"lat": 36.117803708324,
+		"lng": -95.848995866708,
+		"source": "census"
+	},
+	"1303 N URBANA AVE, Tulsa, OK": {
+		"lat": 36.173553080718,
+		"lng": -95.925731002053,
+		"source": "census"
+	},
+	"1061 N MADISON AVE, Tulsa, OK": {
+		"lat": 36.169795157685,
+		"lng": -95.979387428159,
+		"source": "census"
+	},
+	"3320 N LANSING PL, TULSA, OK": {
+		"lat": 36.202633181115,
+		"lng": -95.980707642354,
+		"source": "census"
+	},
+	"2239 N BIRMINGHAM PL, Tulsa, OK": {
+		"lat": 36.186640176073,
+		"lng": -95.952599107787,
+		"source": "census"
+	},
+	"721 N 72 E AVE, TULSA, OK": {
+		"lat": 36.164656169541,
+		"lng": -95.89664705642,
+		"source": "census"
+	},
+	"3913 W 56 ST, Tulsa, OK": {
+		"lat": 36.082379359318,
+		"lng": -96.036363678586,
+		"source": "census"
+	},
+	"2626 W 61 ST, TULSA, OK 74132": {
+		"lat": 36.075279609678,
+		"lng": -96.021750979893,
+		"source": "census"
+	},
+	"14660 E 11 PL, Tulsa, OK": {
+		"lat": 36.147217462216,
+		"lng": -95.813708226827,
+		"source": "census"
+	},
+	"4323 E 68 ST S APT 513, Tulsa, OK": {
+		"lat": 36.065118021053,
+		"lng": -95.928768138314,
+		"source": "census"
+	},
+	"3536 E XYLER ST, Tulsa, OK": {
+		"lat": 36.187471050724,
+		"lng": -95.937412837114,
+		"source": "census"
+	},
+	"3536 E XYLER ST, TULSA, OK 74115": {
+		"lat": 36.187471050724,
+		"lng": -95.937412837114,
+		"source": "census"
+	},
+	"539 E 48 PL N, Tulsa, OK": {
+		"lat": 36.224359823372,
+		"lng": -95.987641414388,
+		"source": "census"
+	},
+	"2121 E 29 ST N, Tulsa, OK": {
+		"lat": 36.195282571152,
+		"lng": -95.960655010753,
+		"source": "census"
+	},
+	"2703 N YORKTOWN AVE, Tulsa, OK": {
+		"lat": 36.193459247182,
+		"lng": -95.962556098998,
+		"source": "census"
+	},
+	"1314 N TOLEDO AVE, Tulsa, OK": {
+		"lat": 36.173785586185,
+		"lng": -95.927011971074,
+		"source": "census"
+	},
+	"844 N DELAWARE AVE, Tulsa, OK": {
+		"lat": 36.16738761581,
+		"lng": -95.948781027581,
+		"source": "census"
+	},
+	"112 N OLYMPIA AVE, Tulsa, OK": {
+		"lat": 36.15510692466,
+		"lng": -96.004311103757,
+		"source": "census"
+	},
+	"1533 N LOUISVILLE AVE, Tulsa, OK": {
+		"lat": 36.177986332827,
+		"lng": -95.936894802344,
+		"source": "census"
+	},
+	"1244 N VANDALIA AVE, TULSA, OK 74115": {
+		"lat": 36.172495072247,
+		"lng": -95.924824834918,
+		"source": "census"
+	},
+	"1036 N ST LOUIS AVE, TULSA, OK74106": {
+		"lat": 36.168507960972,
+		"lng": -95.970670171846,
+		"source": "census"
+	},
+	"545 N XENOPHONE AVE, Tulsa, OK": {
+		"lat": 36.160771589288,
+		"lng": -96.015034473652,
+		"source": "census"
+	},
+	"5931 S SANTE FE, Tulsa, OK": {
+		"lat": 36.077420427719,
+		"lng": -96.008611156796,
+		"source": "census"
+	},
+	"547 N XENOPHONE AVE, Tulsa, OK": {
+		"lat": 36.160809652671,
+		"lng": -96.015033089526,
+		"source": "census"
+	},
+	"1080 N MADISON PL, TULSA, OK 74106": {
+		"lat": 36.170170952116,
+		"lng": -95.978690452213,
+		"source": "census"
+	},
+	"3023 E 89 PL S, TULSA, OK 74137": {
+		"lat": 36.033922394227,
+		"lng": -95.946056054535,
+		"source": "census"
+	},
+	"3309 N ATLANTA PL, TULSA, OK": {
+		"lat": 36.202613903265,
+		"lng": -95.95574794984,
+		"source": "census"
+	},
+	"3503 E XYLER ST, Tulsa, OK": {
+		"lat": 36.187576826648,
+		"lng": -95.937850250085,
+		"source": "census"
+	},
+	"3514 E WOODROW PL, TULSA, OK 74115": {
+		"lat": 36.18657519501,
+		"lng": -95.937779478706,
+		"source": "census"
+	},
+	"5418 W 8 ST, Tulsa, OK": { "lat": 36.146818765803, "lng": -96.053558486573, "source": "census" },
+	"13034 E 39 PL, TULSA, OK 74134": {
+		"lat": 36.106640309624,
+		"lng": -95.831737565556,
+		"source": "census"
+	},
+	"632 E 57 ST N, TULSA, OK 74103": {
+		"lat": 36.236317815152,
+		"lng": -95.985854403699,
+		"source": "census"
+	},
+	"1711 W EASTON CT, TULSA, OK 74127": {
+		"lat": 36.160912864282,
+		"lng": -96.011647884937,
+		"source": "census"
+	},
+	"6331 S 107 E AVE, Tulsa, OK": {
+		"lat": 36.070615655304,
+		"lng": -95.857033532514,
+		"source": "census"
+	},
+	"2020 E 51 ST APT D, TULSA, OK 74105": {
+		"lat": 36.089608814661,
+		"lng": -95.962598116993,
+		"source": "census"
+	},
+	"1225 E 63 ST S, TULSA, OK 74136": {
+		"lat": 36.0724490968,
+		"lng": -95.976591946894,
+		"source": "census"
+	},
+	"803 N KNOXVILLE AVE, Tulsa, OK": {
+		"lat": 36.166305973997,
+		"lng": -95.936263360616,
+		"source": "census"
+	},
+	"1357 E 61, Tulsa, OK": { "lat": 36.075285307299, "lng": -95.97449417174, "source": "census" },
+	"823 N EVANSTON AVE, TULSA, OK 74110": {
+		"lat": 36.16651228003,
+		"lng": -95.946870099942,
+		"source": "census"
+	},
+	"4892 S DARLINGTON AVE, Tulsa, OK": {
+		"lat": 36.092953044699,
+		"lng": -95.917865285844,
+		"source": "census"
+	},
+	"4427 N EVANSTON PL, Tulsa, OK": {
+		"lat": 36.218085627846,
+		"lng": -95.945280937292,
+		"source": "census"
+	},
+	"1206 E 46TH ST N, TULSA, OK": {
+		"lat": 36.220433613737,
+		"lng": -95.976602271071,
+		"source": "census"
+	},
+	"828 S WHEELING AVE, TULSA, OK": {
+		"lat": 36.149391833997,
+		"lng": -95.964755455909,
+		"source": "census"
+	},
+	"305 W 62 PL N, TULSA, OK 74126": {
+		"lat": 36.244391885176,
+		"lng": -95.999744580031,
+		"source": "census"
+	},
+	"3119 N LANSING AVE, TULSA, OK 74127": {
+		"lat": 36.200217063246,
+		"lng": -95.980928836978,
+		"source": "census"
+	},
+	"605 S PEORIA AVE, Tulsa, OK": {
+		"lat": 36.152114966794,
+		"lng": -95.975540733337,
+		"source": "census"
+	},
+	"919 S WINSTON AVE, TULSA, OK 74112": {
+		"lat": 36.149387902546,
+		"lng": -95.92351633896,
+		"source": "census"
+	},
+	"7128 E EASTON PL, TULSA, OK 74115": {
+		"lat": 36.163383826882,
+		"lng": -95.897504382915,
+		"source": "census"
+	},
+	"512 S WHEELING AVE, Tulsa, OK": {
+		"lat": 36.153832770613,
+		"lng": -95.964775477131,
+		"source": "census"
+	},
+	"4938 E 3 ST, TULSA, OK": { "lat": 36.156949095381, "lng": -95.921544783925, "source": "census" },
+	"1946 E 27 ST N, Tulsa, OK": {
+		"lat": 36.193328301014,
+		"lng": -95.96430289916,
+		"source": "census"
+	},
+	"1424 N 72 E AVE, TULSA, OK 74115": {
+		"lat": 36.175717908791,
+		"lng": -95.896844272761,
+		"source": "census"
+	},
+	"1729 S DENVER AVE, TULSA, OK": {
+		"lat": 36.136706728591,
+		"lng": -95.992290226847,
+		"source": "census"
+	},
+	"132 N BIRMINGHAM PL, Tulsa, OK": {
+		"lat": 36.162770505539,
+		"lng": -95.952638265873,
+		"source": "census"
+	},
+	"4207 E 25 ST, TULSA, OK 74114": {
+		"lat": 36.127472902368,
+		"lng": -95.930150465899,
+		"source": "census"
+	},
+	"500 S XANTHUS AVE, TULSA, OK": {
+		"lat": 36.154026678121,
+		"lng": -95.96351007338,
+		"source": "census"
+	},
+	"410 S 50 W AVE, Tulsa, OK": {
+		"lat": 36.151183821042,
+		"lng": -96.048387277003,
+		"source": "census"
+	},
+	"13 S 69 E AVE, TULSA, OK 74112": {
+		"lat": 36.160575482502,
+		"lng": -95.900028206306,
+		"source": "census"
+	},
+	"3220 S 129 E PL, TULSA, OK 74134": {
+		"lat": 36.115325462225,
+		"lng": -95.832598023751,
+		"source": "census"
+	},
+	"9968 E 21 ST, TULSA, OK": {
+		"lat": 36.133424569598,
+		"lng": -95.865075802039,
+		"source": "census"
+	},
+	"6733 S LEWIS AVE, TULSA, OK 74136": {
+		"lat": 36.06559413713,
+		"lng": -95.957822651653,
+		"source": "census"
+	},
+	"1031 E ZION PL, TULSA, OK": {
+		"lat": 36.189774082531,
+		"lng": -95.978889528983,
+		"source": "census"
+	},
+	"3005 S NORWOOD AVE, TULSA, OK": {
+		"lat": 36.120991418426,
+		"lng": -95.905812929935,
+		"source": "census"
+	},
+	"1016 N GARNETT RD, TULSA, OK": {
+		"lat": 36.167425250345,
+		"lng": -95.851183985404,
+		"source": "census"
+	},
+	"6704 S ZUNIS AVE, TULSA, OK": {
+		"lat": 36.066720792751,
+		"lng": -95.961078183147,
+		"source": "census"
+	},
+	"5301 S LOUISVILLE AVE, Tulsa, OK": {
+		"lat": 36.086911841512,
+		"lng": -95.935593163816,
+		"source": "census"
+	},
+	"1500 N YALE AVE, Tulsa, OK": {
+		"lat": 36.177126484858,
+		"lng": -95.922571205011,
+		"source": "census"
+	},
+	"4911 N ST LOUIS AVE, Tulsa, OK": {
+		"lat": 36.225572022354,
+		"lng": -95.968891251377,
+		"source": "census"
+	},
+	"6748 1/2 E OKLAHOMA ST, Tulsa, OK": {
+		"lat": 36.174950475353,
+		"lng": -95.901509221465,
+		"source": "census"
+	},
+	"12336 E 15 ST, TULSA, OK 74128": {
+		"lat": 36.141082537912,
+		"lng": -95.838740476507,
+		"source": "census"
+	},
+	"147 W 50 PL N, Tulsa, OK": {
+		"lat": 36.226625888243,
+		"lng": -95.998070758697,
+		"source": "census"
+	},
+	"11622 E 36 ST, TULSA, OK 74146": {
+		"lat": 36.111149309691,
+		"lng": -95.848702092804,
+		"source": "census"
+	},
+	"5418 E 41 ST, TULSA, OK": { "lat": 36.104315012907, "lng": -95.91529021678, "source": "census" },
+	"2302 E 2 ST, Tulsa, OK": { "lat": 36.157533394862, "lng": -95.959379508414, "source": "census" },
+	"2700 N BOULDER AVE, Tulsa, OK": {
+		"lat": 36.193343310299,
+		"lng": -95.997200655885,
+		"source": "census"
+	},
+	"7100 E 11 ST, Tulsa, OK": {
+		"lat": 36.147880534627,
+		"lng": -95.897281361783,
+		"source": "census"
+	},
+	"1609 S 110 E PL, TULSA ,OK, Tulsa, OK": {
+		"lat": 36.13871206759,
+		"lng": -95.853602539055,
+		"source": "census"
+	},
+	"3332 N GARRISON AVE, Tulsa, OK": {
+		"lat": 36.203173110306,
+		"lng": -95.986309950429,
+		"source": "census"
+	},
+	"2217 E 59 ST APT304, TULSA, OK, 74105": {
+		"lat": 36.078960100297,
+		"lng": -95.96026733657,
+		"source": "census"
+	},
+	"3310 S 114 E AVE, Tulsa, OK": {
+		"lat": 36.114966763233,
+		"lng": -95.850509078307,
+		"source": "census"
+	},
+	"9315 E 48 ST, Tulsa, OK": {
+		"lat": 36.094061743257,
+		"lng": -95.871727185027,
+		"source": "census"
+	},
+	"152 N GARNETT RD, Tulsa, OK": {
+		"lat": 36.158643131964,
+		"lng": -95.851316457323,
+		"source": "census"
+	},
+	"2130 S 85 E AVE, TULSA, OK 74129": {
+		"lat": 36.132785682962,
+		"lng": -95.88231434294,
+		"source": "census"
+	},
+	"1806 S 126 E AVE, Tulsa, OK": {
+		"lat": 36.136206139118,
+		"lng": -95.836274827145,
+		"source": "census"
+	},
+	"5943 S SANTA FE AVE, Tulsa, OK": {
+		"lat": 36.077273775245,
+		"lng": -96.008624664271,
+		"source": "census"
+	},
+	"2158 N KINGSTON PL, TULSA, OK 74115": {
+		"lat": 36.184908633718,
+		"lng": -95.90971406691,
+		"source": "census"
+	},
+	"3912 N WINSTON AVE, Tulsa, OK": {
+		"lat": 36.211725731792,
+		"lng": -95.924425858292,
+		"source": "census"
+	},
+	"12651 E 31 CT, TULSA, OK 74145": {
+		"lat": 36.117534312645,
+		"lng": -95.836516980276,
+		"source": "census"
+	},
+	"9502 E 65 ST, SPT 907, TULSA, OK": {
+		"lat": 36.069611190686,
+		"lng": -95.86930011332,
+		"source": "census"
+	},
+	"300 S YORKTOWN AVE, Tulsa, OK": {
+		"lat": 36.156563224598,
+		"lng": -95.962180815782,
+		"source": "census"
+	},
+	"6733 S LEWIS AVE, Tulsa, OK": {
+		"lat": 36.06559413713,
+		"lng": -95.957822651653,
+		"source": "census"
+	},
+	"4936 W 8 ST, Tulsa, OK": { "lat": 36.146735960325, "lng": -96.047695450996, "source": "census" },
+	"1925 S OLYMPIA AVE, Tulsa, OK": {
+		"lat": 36.135321348725,
+		"lng": -96.00448258034,
+		"source": "census"
+	},
+	"4324 N GARRISON PL, TULSA, OK": {
+		"lat": 36.216808898796,
+		"lng": -95.985729750413,
+		"source": "census"
+	},
+	"1231 S QUINCY AVE, Tulsa, OK": {
+		"lat": 36.145384585048,
+		"lng": -95.973266687862,
+		"source": "census"
+	},
+	"1235 S 120 E AVE, Tulsa, OK": {
+		"lat": 36.145497596671,
+		"lng": -95.84321742677,
+		"source": "census"
+	},
+	"2323 N ATLANTA PL, Tulsa, OK": {
+		"lat": 36.186993773893,
+		"lng": -95.95555976005,
+		"source": "census"
+	},
+	"105 E 63 ST N, TULSA, OJK, Tulsa, OK": {
+		"lat": 36.244963711282,
+		"lng": -95.995331921751,
+		"source": "census"
+	},
+	"1108 S ATLANTA PL, TULSA, OK 74115": {
+		"lat": 36.14721529818,
+		"lng": -95.954942723831,
+		"source": "census"
+	},
+	"6221 S QUEBEC AVE, Tulsa, OK": {
+		"lat": 36.076354313856,
+		"lng": -95.929489126355,
+		"source": "census"
+	},
+	"6963 E 17 ST, Tulsa, OK": {
+		"lat": 36.138342596952,
+		"lng": -95.899576403542,
+		"source": "census"
+	},
+	"11031 E 15 ST, Tulsa, OK": {
+		"lat": 36.140525375778,
+		"lng": -95.853202268371,
+		"source": "census"
+	},
+	"133 N BIRMINGHAM PL, Tulsa, OK": {
+		"lat": 36.162771661908,
+		"lng": -95.952496337103,
+		"source": "census"
+	},
+	"2120 E NEWTON PL, TULSA, OK 74100": {
+		"lat": 36.174244675405,
+		"lng": -95.961928063468,
+		"source": "census"
+	},
+	"5923 E 35 ST, Tulsa, OK": {
+		"lat": 36.113445214142,
+		"lng": -95.910017891076,
+		"source": "census"
+	},
+	"7225 S 92 E AVE, Tulsa, OK": {
+		"lat": 36.059551491572,
+		"lng": -95.873393525293,
+		"source": "census"
+	},
+	"867 N WACO AVE, Tulsa, OK": {
+		"lat": 36.166595554107,
+		"lng": -96.013510466025,
+		"source": "census"
+	},
+	"4240 E 107 ST, Tulsa, OK": {
+		"lat": 36.008623802843,
+		"lng": -95.929809982152,
+		"source": "census"
+	},
+	"2141 E OKLAHOMA ST, Tulsa, OK": {
+		"lat": 36.175287484878,
+		"lng": -95.961834999745,
+		"source": "census"
+	},
+	"2400 W TECUMSEH ST, TULSA, OK": {
+		"lat": 36.181977820583,
+		"lng": -95.958157354461,
+		"source": "census"
+	},
+	"6565 S NEWPORT AVE APT416, Tulsa, OK": {
+		"lat": 36.068196636369,
+		"lng": -95.978068075639,
+		"source": "census"
+	},
+	"9900 E 66 ST, TULSA, OK TULSA, OK": {
+		"lat": 36.06810138979,
+		"lng": -95.866074332173,
+		"source": "census"
+	},
+	"900 W 3 ST, Tulsa, OK": { "lat": 36.150138387444, "lng": -96.002767711601, "source": "census" },
+	"7838 E LATIMER PL, TULSA, OK": {
+		"lat": 36.170152033991,
+		"lng": -95.890127185165,
+		"source": "census"
+	},
+	"841 N 91 E AVE, Tulsa, OK": {
+		"lat": 36.167112605888,
+		"lng": -95.875450216412,
+		"source": "census"
+	},
+	"2621 N ROCKFORD AVE, TULSA, OK 74127": {
+		"lat": 36.192454890208,
+		"lng": -95.972065469785,
+		"source": "census"
+	},
+	"6016 S MEMORIAL DR, Tulsa, OK": {
+		"lat": 36.076612061637,
+		"lng": -95.886545019538,
+		"source": "census"
+	},
+	"7708 E 28 CT, Tulsa, OK": {
+		"lat": 36.121945623091,
+		"lng": -95.890126353876,
+		"source": "census"
+	},
+	"11416 E 4 PL, Tulsa, OK": { "lat": 36.154892467152, "lng": -95.84962353502, "source": "census" },
+	"1435 N DELAWARE PL, Tulsa, OK": {
+		"lat": 36.175568592407,
+		"lng": -95.948638544836,
+		"source": "census"
+	},
+	"43 E 50 ST N, Tulsa, OK": { "lat": 36.225827560638, "lng": -95.99555214598, "source": "census" },
+	"1324 E 66 ST, Tulsa, OK": {
+		"lat": 36.249326745523,
+		"lng": -95.974384383508,
+		"source": "census"
+	},
+	"1333 N IRVINGTON AVE, TULSA, OK 74115": {
+		"lat": 36.173836638527,
+		"lng": -95.912857589858,
+		"source": "census"
+	},
+	"6351 N CHEYENNE AVE, Tulsa, OK": {
+		"lat": 36.245835278226,
+		"lng": -95.998118591177,
+		"source": "census"
+	},
+	"1561 E 48 PL N, TULSA, OK 74126": {
+		"lat": 36.224209160781,
+		"lng": -95.968937840193,
+		"source": "census"
+	},
+	"2206 S 107 E AVE, TULSA, OK": {
+		"lat": 36.13133473305,
+		"lng": -95.857374453125,
+		"source": "census"
+	},
+	"1010 N GARNETT RD, Tulsa, OK": {
+		"lat": 36.167204596788,
+		"lng": -95.851183316633,
+		"source": "census"
+	},
+	"2018 E WOODROW CT, Tulsa, OK": {
+		"lat": 36.186574457194,
+		"lng": -95.962803810022,
+		"source": "census"
+	},
+	"2600 S QUEBEC AVE, Tulsa, OK": {
+		"lat": 36.124828574196,
+		"lng": -95.929609644717,
+		"source": "census"
+	},
+	"1610 E 46 PL, Tulsa, OK": {
+		"lat": 36.096482661493,
+		"lng": -95.968547772231,
+		"source": "census"
+	},
+	"59 N LEWIS PL, Tulsa, OK": {
+		"lat": 36.161858031245,
+		"lng": -95.956947175672,
+		"source": "census"
+	},
+	"18124 E 4 ST S, TULSA, OK 74108": {
+		"lat": 36.155803659983,
+		"lng": -95.774285626435,
+		"source": "census"
+	},
+	"7842 E LATIMER PL, Tulsa, OK": {
+		"lat": 36.170151917503,
+		"lng": -95.890075815369,
+		"source": "census"
+	},
+	"628 S YORKTOWN AVE, Tulsa, OK": {
+		"lat": 36.151695558996,
+		"lng": -95.962145898918,
+		"source": "census"
+	},
+	"1138 N GRANITE AVE, Tulsa, OK": {
+		"lat": 36.170956698848,
+		"lng": -95.91414775077,
+		"source": "census"
+	},
+	"500 S 47 W AVE, Tulsa, OK": {
+		"lat": 36.149822440161,
+		"lng": -96.045035048711,
+		"source": "census"
+	},
+	"9344 S 92 E AVE, TULSA, OK": {
+		"lat": 36.0276657589,
+		"lng": -95.873268901547,
+		"source": "census"
+	},
+	"4303 N GARRISON AVE, TULSA, OK": {
+		"lat": 36.21661076114,
+		"lng": -95.986717321561,
+		"source": "census"
+	},
+	"119 N WHEELING AVE, Tulsa, OK": {
+		"lat": 36.162662725739,
+		"lng": -95.964610119207,
+		"source": "census"
+	},
+	"1577 N NEWHAVEN AVE, TULSA, OK 74115": {
+		"lat": 36.178626573106,
+		"lng": -95.934221146264,
+		"source": "census"
+	},
+	"10166 E ADMIRAL PL APT A, TULSA, OK 74128": {
+		"lat": 36.160635044605,
+		"lng": -95.864536472007,
+		"source": "census"
+	},
+	"1443 S DENVER AVE, Tulsa, OK": {
+		"lat": 36.142002136301,
+		"lng": -95.992306700992,
+		"source": "census"
+	},
+	"8001 S WHEELING AVE, APT C, TULSA, OK": {
+		"lat": 36.047928681081,
+		"lng": -95.964239095349,
+		"source": "census"
+	},
+	"2908 S 86 E AVE, TULSA, OK 74129": {
+		"lat": 36.121338964495,
+		"lng": -95.881692483471,
+		"source": "census"
+	},
+	"6111 S JOPLIN AVE, TULSA, OK 74136": {
+		"lat": 36.074790123219,
+		"lng": -95.910299379734,
+		"source": "census"
+	},
+	"3200 S HARVARD AVE, TULSA, OK": {
+		"lat": 36.116944856958,
+		"lng": -95.940337321953,
+		"source": "census"
+	},
+	"818 S 51 W AVE, Tulsa, OK": {
+		"lat": 36.146658026786,
+		"lng": -96.049762184341,
+		"source": "census"
+	},
+	"6703 S ZUNIS PL, Tulsa, OK": {
+		"lat": 36.065717077177,
+		"lng": -95.95999996757,
+		"source": "census"
+	},
+	"3504 E VIRGIN PL, TULSA, OK 74115": {
+		"lat": 36.184705820133,
+		"lng": -95.937790955949,
+		"source": "census"
+	},
+	"413 S 117 E AVE, Tulsa, OK": {
+		"lat": 36.154916473768,
+		"lng": -95.846751432492,
+		"source": "census"
+	},
+	"9760 E 4 ST S, TULSA, OK": {
+		"lat": 36.155976746341,
+		"lng": -95.867584965801,
+		"source": "census"
+	},
+	"27 E 62 PL N, Tulsa, OK": {
+		"lat": 36.244103885008,
+		"lng": -95.995511951384,
+		"source": "census"
+	},
+	"3700 W 56 ST, Tulsa, OK": {
+		"lat": 36.082276334702,
+		"lng": -96.034134592462,
+		"source": "census"
+	},
+	"5229 S VANDALIA AVE, TULSA, OK": {
+		"lat": 36.087602544893,
+		"lng": -95.92436912097,
+		"source": "census"
+	},
+	"3804 E XYLER ST, TULSA, OK": {
+		"lat": 36.187511570172,
+		"lng": -95.934094685877,
+		"source": "census"
+	},
+	"8500 E 33 ST, Tulsa, OK": {
+		"lat": 36.114917861316,
+		"lng": -95.881454732184,
+		"source": "census"
+	},
+	"2308 S 96 E AVE, Tulsa, OK": {
+		"lat": 36.130077674914,
+		"lng": -95.868769229812,
+		"source": "census"
+	},
+	"1337 E 62 ST, Tulsa, OK": {
+		"lat": 36.073413086423,
+		"lng": -95.974924571363,
+		"source": "census"
+	},
+	"12517 E 33 ST,TULSA, OK 74146": {
+		"lat": 36.115837819313,
+		"lng": -95.83776529078,
+		"source": "census"
+	},
+	"5600 E 36 ST N, Tulsa, OK": {
+		"lat": 36.206047605208,
+		"lng": -95.911636206895,
+		"source": "census"
+	},
+	"106 E 46 ST N, Tulsa, OK": {
+		"lat": 36.220418297787,
+		"lng": -95.994970812218,
+		"source": "census"
+	},
+	"1080 N MADISON PL, Tulsa, OK": {
+		"lat": 36.170170952116,
+		"lng": -95.978690452213,
+		"source": "census"
+	},
+	"3631 S MAYBELLE AVE, Tulsa, OK": {
+		"lat": 36.110474682409,
+		"lng": -96.001949527648,
+		"source": "census"
+	},
+	"6720 E 6 ST S, TULSA, OK 74112": {
+		"lat": 36.152405305049,
+		"lng": -95.901402305573,
+		"source": "census"
+	},
+	"4900 S 76 E AVE, Tulsa, OK": {
+		"lat": 36.092653597611,
+		"lng": -95.892430117996,
+		"source": "census"
+	},
+	"8313 E 24 ST, TULSA, OK 74129": {
+		"lat": 36.127138710333,
+		"lng": -95.884699392664,
+		"source": "census"
+	},
+	"4903 E 2 PL, Tulsa, OK": { "lat": 36.157790759745, "lng": -95.922399812537, "source": "census" },
+	"122 S SANDUSKY AVE, Tulsa, OK": {
+		"lat": 36.158225751922,
+		"lng": -95.927914569269,
+		"source": "census"
+	},
+	"7336 E LATIMER PL, TULSA, OK 74115": {
+		"lat": 36.170199761112,
+		"lng": -95.895230583356,
+		"source": "census"
+	},
+	"2010 N MEMORIAL DR, Tulsa, OK": {
+		"lat": 36.183406357791,
+		"lng": -95.886779912763,
+		"source": "census"
+	},
+	"5715 S VANCOUVER AVE, Tulsa, OK": {
+		"lat": 36.07984650699,
+		"lng": -96.01229905634,
+		"source": "census"
+	},
+	"5816 N ELGIN AVE, Tulsa, OK": {
+		"lat": 36.238374439527,
+		"lng": -95.990832149146,
+		"source": "census"
+	},
+	"721 S PHOENIX AVE, TULSA, OK": {
+		"lat": 36.14782371954,
+		"lng": -96.005813606418,
+		"source": "census"
+	},
+	"8900 E NEWTON ST, TULSA, OK 74115": {
+		"lat": 36.173796796766,
+		"lng": -95.87766141084,
+		"source": "census"
+	},
+	"221 E 43 ST N, TULSA, OK 74106": {
+		"lat": 36.217464354193,
+		"lng": -95.993159914636,
+		"source": "census"
+	},
+	"500 S 114 E AVE, TULSA, OK 74128": {
+		"lat": 36.15408523922,
+		"lng": -95.849546437829,
+		"source": "census"
+	},
+	"1234 S MEMORIAL DR, TULSA, OK 74112": {
+		"lat": 36.144846018675,
+		"lng": -95.886703574354,
+		"source": "census"
+	},
+	"8135 E 19 ST, Tulsa, OK": {
+		"lat": 36.135340741909,
+		"lng": -95.884822616881,
+		"source": "census"
+	},
+	"2542 S 126 E AVE, Tulsa, OK": {
+		"lat": 36.127625978862,
+		"lng": -95.836301521521,
+		"source": "census"
+	},
+	"12909 E 31 CT, TULSA, OK": {
+		"lat": 36.11668881825,
+		"lng": -95.833117943363,
+		"source": "census"
+	},
+	"4106 S 130 E AVE, Tulsa, OK": {
+		"lat": 36.104184927305,
+		"lng": -95.832219404269,
+		"source": "census"
+	},
+	"3031 N ERIE AVE, TULSA, OK 74115": {
+		"lat": 36.197505419213,
+		"lng": -95.915641555371,
+		"source": "census"
+	},
+	"3203 E ARCHER ST, Tulsa, OK": {
+		"lat": 36.16266196501,
+		"lng": -95.942439627059,
+		"source": "census"
+	},
+	"3168 N IROQUOIS AVE, Tulsa, OK": {
+		"lat": 36.200904007756,
+		"lng": -95.983143121705,
+		"source": "census"
+	},
+	"4718 S 25 W AVE, TULSA, OK 74107": {
+		"lat": 36.094986179164,
+		"lng": -96.020646010842,
+		"source": "census"
+	},
+	"10907 E 28 PL, Tulsa, OK": {
+		"lat": 36.123394241665,
+		"lng": -95.854674209443,
+		"source": "census"
+	},
+	"5923 S 94 E AVE, Tulsa, OK": {
+		"lat": 36.077929452086,
+		"lng": -95.871012545,
+		"source": "census"
+	},
+	"346 S 119 E AVE, TULSA, OK 74134": {
+		"lat": 36.15612605253,
+		"lng": -95.844171435213,
+		"source": "census"
+	},
+	"7498 E 1 ST, Tulsa, OK": { "lat": 36.159710584179, "lng": -95.893478452089, "source": "census" },
+	"1760 S CANTON AVE, Tulsa, OK": {
+		"lat": 36.137482032611,
+		"lng": -95.918757169651,
+		"source": "census"
+	},
+	"428 E NEWTON PL, Tulsa, OK": {
+		"lat": 36.173785717107,
+		"lng": -95.990495620737,
+		"source": "census"
+	},
+	"1227 W 11 ST, Tulsa, OK": {
+		"lat": 36.146177852112,
+		"lng": -96.006084380878,
+		"source": "census"
+	},
+	"1551 E HASKELL ST, Tulsa, OK": {
+		"lat": 36.164497260572,
+		"lng": -95.970052419025,
+		"source": "census"
+	},
+	"4600 E 68 ST, TULSA, OK 74136": {
+		"lat": 36.065701241289,
+		"lng": -95.924530216563,
+		"source": "census"
+	},
+	"6370 N MAIN ST, Tulsa, OK": {
+		"lat": 36.247024032068,
+		"lng": -95.996342334313,
+		"source": "census"
+	},
+	"2149 N HARTFORD AVE, Tulsa, OK": {
+		"lat": 36.185224302434,
+		"lng": -95.984488929584,
+		"source": "census"
+	},
+	"204 S 69 E AVE, Tulsa, OK": {
+		"lat": 36.158860970286,
+		"lng": -95.900162624477,
+		"source": "census"
+	},
+	"5921 N GARRISON AVE, Tulsa, OK": {
+		"lat": 36.23994522692,
+		"lng": -95.98602140453,
+		"source": "census"
+	},
+	"7321 E 63 ST, Tulsa, OK": {
+		"lat": 36.072567973741,
+		"lng": -95.894593045807,
+		"source": "census"
+	},
+	"1656 S 130 E AVE, TULSA, OK": {
+		"lat": 36.139627056081,
+		"lng": -95.832607986493,
+		"source": "census"
+	},
+	"2912 W 41 ST, Tulsa, OK": {
+		"lat": 36.104427474374,
+		"lng": -96.026173147978,
+		"source": "census"
+	},
+	"3362 S 142 E AVE, Tulsa, OK": {
+		"lat": 36.113293946181,
+		"lng": -95.819027988862,
+		"source": "census"
+	},
+	"1210 N TOLEDO AVE, Tulsa, OK": {
+		"lat": 36.172189950341,
+		"lng": -95.926998417769,
+		"source": "census"
+	},
+	"1905 W 51 ST N, TULSA, OK": {
+		"lat": 36.089933449659,
+		"lng": -96.014048846922,
+		"source": "census"
+	},
+	"1923 S PHOENIX AVE, Tulsa, OK": {
+		"lat": 36.135339755998,
+		"lng": -96.005681783338,
+		"source": "census"
+	},
+	"1511 N WHEELING AVE, TULSA, OK 74110": {
+		"lat": 36.177230495939,
+		"lng": -95.965266980175,
+		"source": "census"
+	},
+	"421 S 76 E AVE, Tulsa, OK": {
+		"lat": 36.156500570029,
+		"lng": -95.892561583244,
+		"source": "census"
+	},
+	"1031 N IRVINGTON AVE, TULSA, OK": {
+		"lat": 36.169387456798,
+		"lng": -95.912848492557,
+		"source": "census"
+	},
+	"6221 E MARSHALL ST, Tulsa, OK": {
+		"lat": 36.171426646923,
+		"lng": -95.908087286331,
+		"source": "census"
+	},
+	"3160 E 26 ST, Tulsa, OK": {
+		"lat": 36.125974879653,
+		"lng": -95.942365388013,
+		"source": "census"
+	},
+	"6613 E NEWTON ST, Tulsa, OK": {
+		"lat": 36.173051637572,
+		"lng": -95.902770882622,
+		"source": "census"
+	},
+	"1332 E 66 PL, Tulsa, OK": { "lat": 36.06729697048, "lng": -95.974983975946, "source": "census" },
+	"3748 N BIRMINGHAM AVE, Tulsa, OK": {
+		"lat": 36.209393898152,
+		"lng": -95.95501223582,
+		"source": "census"
+	},
+	"12205 E 30 PL, Tulsa, OK": {
+		"lat": 36.119507467018,
+		"lng": -95.840276382401,
+		"source": "census"
+	},
+	"4641 N BOSTON AVE, TULSA, OK 74126": {
+		"lat": 36.221149188189,
+		"lng": -95.99502270741,
+		"source": "census"
+	},
+	"4040 W EDISON ST, TULSA, OK": {
+		"lat": 36.161099310507,
+		"lng": -96.037148682273,
+		"source": "census"
+	},
+	"5723 S 35 W AVE, Tulsa, OK": {
+		"lat": 36.080163344216,
+		"lng": -96.031793403795,
+		"source": "census"
+	},
+	"1644 N DELAWARE PL, Tulsa, OK": {
+		"lat": 36.179411311884,
+		"lng": -95.948812521104,
+		"source": "census"
+	},
+	"8820 E PINE ST, TULSA, OK 74115": {
+		"lat": 36.176964356806,
+		"lng": -95.878641389974,
+		"source": "census"
+	},
+	"11862 E 15 PL, Tulsa, OK": {
+		"lat": 36.139889655201,
+		"lng": -95.843137355562,
+		"source": "census"
+	},
+	"2103 E UTE ST, TULSA, OK": {
+		"lat": 36.183218894065,
+		"lng": -95.961524379406,
+		"source": "census"
+	},
+	"1840 N OSWEGO AVE, Tulsa, OK": {
+		"lat": 36.181209895228,
+		"lng": -95.93314654232,
+		"source": "census"
+	},
+	"734 N OSAGE DR, Tulsa, OK": {
+		"lat": 36.166083300931,
+		"lng": -96.002099811511,
+		"source": "census"
+	},
+	"3703 S 31 W AVE, TULSA, OK 74107": {
+		"lat": 36.109614635301,
+		"lng": -96.026822518538,
+		"source": "census"
+	},
+	"5346 E YOUNG CT, Tulsa, OK": {
+		"lat": 36.190044149281,
+		"lng": -95.916957183038,
+		"source": "census"
+	},
+	"6620 S ZUNIS AVE APT 304, TULSA, OK 74136": {
+		"lat": 36.067266725243,
+		"lng": -95.960509290851,
+		"source": "census"
+	},
+	"4063 E 22 PL, Tulsa, OK": { "lat": 36.131012547879, "lng": -95.9318472992, "source": "census" },
+	"3110 E 8 ST, Tulsa, OK": { "lat": 36.149731158674, "lng": -95.944635264772, "source": "census" },
+	"12014 E 28 ST, Tulsa, OK": {
+		"lat": 36.123724237777,
+		"lng": -95.842519489434,
+		"source": "census"
+	},
+	"6746 E 5 ST, Tulsa, OK": { "lat": 36.154191799587, "lng": -95.901762994728, "source": "census" },
+	"3004 E ARCHER ST, Tulsa, OK": {
+		"lat": 36.162570241896,
+		"lng": -95.944790711999,
+		"source": "census"
+	},
+	"3639 S LOUISVILLE AVE, TULSA, OK": {
+		"lat": 36.110578129764,
+		"lng": -95.935895065571,
+		"source": "census"
+	},
+	"10601 E 33 ST, TULSA, OK 74146": {
+		"lat": 36.115278181069,
+		"lng": -95.85870140945,
+		"source": "census"
+	},
+	"1233 S DELAWARE AVE, Tulsa, OK": {
+		"lat": 36.145396955804,
+		"lng": -95.949231904947,
+		"source": "census"
+	},
+	"415 W ARCHER ST, TULSA, OK": {
+		"lat": 36.155670576793,
+		"lng": -95.998137458859,
+		"source": "census"
+	},
+	"1211 N CHEYENNE AVE, Tulsa, OK": {
+		"lat": 36.171769240644,
+		"lng": -95.997913544472,
+		"source": "census"
+	},
+	"1928 S 141 E AVE, Tulsa, OK": {
+		"lat": 36.136279749865,
+		"lng": -95.820078563764,
+		"source": "census"
+	},
+	"10220 S MEMORIAL DR, Tulsa, OK": {
+		"lat": 36.01625390331,
+		"lng": -95.8866729005,
+		"source": "census"
+	},
+	"5227 S 68 E AVE, TULSA, OK": {
+		"lat": 36.087900505418,
+		"lng": -95.900805104068,
+		"source": "census"
+	},
+	"2460 S 144 E AVE, TULSA, OK 74134": {
+		"lat": 36.127560810671,
+		"lng": -95.816180611698,
+		"source": "census"
+	},
+	"1552 E 60 ST, Tulsa, OK": {
+		"lat": 36.076958322029,
+		"lng": -95.970142012548,
+		"source": "census"
+	},
+	"1315 N YALE AVE, Tulsa, OK": {
+		"lat": 36.173767721666,
+		"lng": -95.922428498333,
+		"source": "census"
+	},
+	"9903 E 22 PL, Tulsa, OK": {
+		"lat": 36.130459774633,
+		"lng": -95.865165712406,
+		"source": "census"
+	},
+	"12546 E 18 ST, Tulsa, OK": {
+		"lat": 36.136907936091,
+		"lng": -95.836656963523,
+		"source": "census"
+	},
+	"7232 E 46 PL, TULSA, OK": {
+		"lat": 36.096642092223,
+		"lng": -95.897236281154,
+		"source": "census"
+	},
+	"419 S 70 E AVE, TULSA, OK 74112": {
+		"lat": 36.156785295398,
+		"lng": -95.898910374799,
+		"source": "census"
+	},
+	"6725 S. LEWIS AVE, TULSA, OK": {
+		"lat": 36.065634173594,
+		"lng": -95.957821727732,
+		"source": "census"
+	},
+	"9824 S 99 E AVE, TULSA, OK": {
+		"lat": 36.021466849989,
+		"lng": -95.866029855237,
+		"source": "census"
+	},
+	"1143 N BOSTON AVE, Tulsa, OK": {
+		"lat": 36.170487852023,
+		"lng": -95.995664320784,
+		"source": "census"
+	},
+	"2016 E 6 ST, TULSA, OK": { "lat": 36.152027308304, "lng": -95.963215269718, "source": "census" },
+	"4324 N GARRISON AVE, TULSA, OK": {
+		"lat": 36.216925606009,
+		"lng": -95.986860796062,
+		"source": "census"
+	},
+	"561 S 99 E AVE, Tulsa, OK": {
+		"lat": 36.153001599218,
+		"lng": -95.865967675042,
+		"source": "census"
+	},
+	"2429 N MARION AVE, Tulsa, OK": {
+		"lat": 36.189451475254,
+		"lng": -95.933939499471,
+		"source": "census"
+	},
+	"4381 N GARRISON AVE, Tulsa, OK": {
+		"lat": 36.217728528275,
+		"lng": -95.986722433212,
+		"source": "census"
+	},
+	"5505 S DELAWARE PL, Tulsa, OK": {
+		"lat": 36.084268176867,
+		"lng": -95.948184672794,
+		"source": "census"
+	},
+	"3110 S 85 E AVE, Tulsa, OK": {
+		"lat": 36.118421403857,
+		"lng": -95.882427039249,
+		"source": "census"
+	},
+	"3031 N ERIE AVE, Tulsa, OK": {
+		"lat": 36.197505419213,
+		"lng": -95.915641555371,
+		"source": "census"
+	},
+	"4155 S ST LOUIS AVE, TULSA, OK": {
+		"lat": 36.102586393376,
+		"lng": -95.969689483443,
+		"source": "census"
+	},
+	"534 S XANTHUS AVE, TULSA, OK": {
+		"lat": 36.153373239658,
+		"lng": -95.963529205637,
+		"source": "census"
+	},
+	"3527 S 149 E AVE, Tulsa, OK": {
+		"lat": 36.113559941193,
+		"lng": -95.810408011969,
+		"source": "census"
+	},
+	"6831 E 47, Tulsa, OK": { "lat": 36.095939807, "lng": -95.901347368638, "source": "census" },
+	"2130 S SHERIDAN RD, TULSA, OK": {
+		"lat": 36.132856542227,
+		"lng": -95.904681743843,
+		"source": "census"
+	},
+	"1412 E 56 ST S, TULSA, OK": {
+		"lat": 36.082421321219,
+		"lng": -95.973323874427,
+		"source": "census"
+	},
+	"6939 S UTICA CIRCLE, Tulsa, OK": {
+		"lat": 36.067638991255,
+		"lng": -95.966127183552,
+		"source": "census"
+	},
+	"1419 S 121 E AVE, TULSA, OK": {
+		"lat": 36.142428780218,
+		"lng": -95.842165399537,
+		"source": "census"
+	},
+	"8170 S LEWIS AVE, Tulsa, OK": {
+		"lat": 36.044913573987,
+		"lng": -95.95791886926,
+		"source": "census"
+	},
+	"4534 E ZION ST, Tulsa, OK": {
+		"lat": 36.190970299471,
+		"lng": -95.926335913447,
+		"source": "census"
+	},
+	"4549 E WOODROW PL, Tulsa, OK": {
+		"lat": 36.186715610861,
+		"lng": -95.925376032093,
+		"source": "census"
+	},
+	"844 N 95 E AVE, Tulsa, OK": {
+		"lat": 36.167205658357,
+		"lng": -95.87143174503,
+		"source": "census"
+	},
+	"4346 S 70 ST, TULSA, OK 74136": {
+		"lat": 36.062564938208,
+		"lng": -95.928851131603,
+		"source": "census"
+	},
+	"5662 S PEORIA AVE, TULSA, OK 74105": {
+		"lat": 36.08066615568,
+		"lng": -95.975854677155,
+		"source": "census"
+	},
+	"5120 W CHARLES PAGE BLVD, Tulsa, OK": {
+		"lat": 36.147960462209,
+		"lng": -96.049907180599,
+		"source": "census"
+	},
+	"1416 N CANTON AVE, Tulsa, OK": {
+		"lat": 36.175614697673,
+		"lng": -95.919213285056,
+		"source": "census"
+	},
+	"1970 W 65 ST, TULSA, OK 74132": {
+		"lat": 36.071273934284,
+		"lng": -96.015287820704,
+		"source": "census"
+	},
+	"5928 E NEWTON ST, Tulsa, OK": {
+		"lat": 36.17308040487,
+		"lng": -95.911427756967,
+		"source": "census"
+	},
+	"2600 SOUTHWEST BLVD, Tulsa, OK": {
+		"lat": 36.124976656536,
+		"lng": -96.007224037053,
+		"source": "census"
+	},
+	"2240 N BIRMINGHAM PL, TULSA, OK": {
+		"lat": 36.18666132649,
+		"lng": -95.952740937495,
+		"source": "census"
+	},
+	"10623 E 33 PL S, TULSA, OK": {
+		"lat": 36.114506330097,
+		"lng": -95.858480012494,
+		"source": "census"
+	},
+	"145 N GARNETT RD, TULSA, OK": {
+		"lat": 36.164113102707,
+		"lng": -95.851124277658,
+		"source": "census"
+	},
+	"6945 E OKLAHOMA ST, Tulsa, OK": {
+		"lat": 36.175017373303,
+		"lng": -95.898463311627,
+		"source": "census"
+	},
+	"11509 E 7 ST, Tulsa, OK": {
+		"lat": 36.152758756419,
+		"lng": -95.847834454514,
+		"source": "census"
+	},
+	"7232 E 46 PL, Tulsa, OK": {
+		"lat": 36.096642092223,
+		"lng": -95.897236281154,
+		"source": "census"
+	},
+	"1314 NB 52 PL N , TULSA, OK": {
+		"lat": 36.22972659648,
+		"lng": -95.974953264179,
+		"source": "census"
+	},
+	"6224 E ARCHER ST, Tulsa, OK": {
+		"lat": 36.16253930356,
+		"lng": -95.907533510405,
+		"source": "census"
+	},
+	"18500 E 45, Tulsa, OK": { "lat": 36.098728010112, "lng": -95.770079743438, "source": "census" },
+	"5544 S DELAWARE PL, Tulsa, OK": {
+		"lat": 36.083661926102,
+		"lng": -95.948332137395,
+		"source": "census"
+	},
+	"5811 E 71 ST, Tulsa, OK": {
+		"lat": 36.060867039939,
+		"lng": -95.912370284306,
+		"source": "census"
+	},
+	"6568 E 21 PL, Tulsa, OK": {
+		"lat": 36.131576173818,
+		"lng": -95.903023344035,
+		"source": "census"
+	},
+	"9221 S 92 E AVE, TULSA, OK": {
+		"lat": 36.030372985224,
+		"lng": -95.873991725303,
+		"source": "census"
+	},
+	"3727 E APACHE ST, TULSA, OK": {
+		"lat": 36.191625124586,
+		"lng": -95.935875902829,
+		"source": "census"
+	},
+	"513 E 32 ST N, TULSA, OK 74106": {
+		"lat": 36.200566281184,
+		"lng": -95.98735825874,
+		"source": "census"
+	},
+	"2224 E ADMIRAL BLVD, TULSA, OK": {
+		"lat": 36.159795946911,
+		"lng": -95.960373247098,
+		"source": "census"
+	},
+	"1855 N JAMESTOWN, Tulsa, OK": {
+		"lat": 36.181384013442,
+		"lng": -95.938145041416,
+		"source": "census"
+	},
+	"4908 S DARLINGTON AVE, Tulsa, OK": {
+		"lat": 36.092748577603,
+		"lng": -95.917863271406,
+		"source": "census"
+	},
+	"2403 N YORKTOWN AVE, TULSA, OK": {
+		"lat": 36.188522401728,
+		"lng": -95.960848842565,
+		"source": "census"
+	},
+	"4544 S WACO AVE, Tulsa, OK": {
+		"lat": 36.097904985086,
+		"lng": -96.013971258043,
+		"source": "census"
+	},
+	"2741 E 44 PL N, Tulsa, OK": {
+		"lat": 36.218043633251,
+		"lng": -95.950203541767,
+		"source": "census"
+	},
+	"11525 E SKELLY DR, TULSA, OK 74128": {
+		"lat": 36.148560472924,
+		"lng": -95.847955970255,
+		"source": "census"
+	},
+	"12825 E 13 PL, Tulsa, OK": {
+		"lat": 36.142475232515,
+		"lng": -95.834586153718,
+		"source": "census"
+	},
+	"11046 E 15 PL, TULSA, OK 74128": {
+		"lat": 36.139917240066,
+		"lng": -95.852232409833,
+		"source": "census"
+	},
+	"7127 E 80 ST, Tulsa, OK": {
+		"lat": 36.046939410215,
+		"lng": -95.896848283142,
+		"source": "census"
+	},
+	"1464 S 107 E AVE, TULSA, OK 74128": {
+		"lat": 36.143508282007,
+		"lng": -95.856694783171,
+		"source": "census"
+	},
+	"2505 E 29 ST N, TULSA, OK 74110": {
+		"lat": 36.195289788594,
+		"lng": -95.955804709174,
+		"source": "census"
+	},
+	"4129 E 1 ST, Tulsa, OK": { "lat": 36.158550885782, "lng": -95.931059030859, "source": "census" },
+	"1344 S 76 E AVE, Tulsa, OK": {
+		"lat": 36.143519153784,
+		"lng": -95.892348630371,
+		"source": "census"
+	},
+	"4527 S HUDSON PL, Tulsa, OK": {
+		"lat": 36.098289272895,
+		"lng": -95.912690795486,
+		"source": "census"
+	},
+	"5002 S 30 W AVE, TULSA, OK 74107": {
+		"lat": 36.091621250384,
+		"lng": -96.026271210403,
+		"source": "census"
+	},
+	"3847 S 98 E AVE, Tulsa, OK": {
+		"lat": 36.107917635303,
+		"lng": -95.867966424557,
+		"source": "census"
+	},
+	"2400 W 43 ST, Tulsa, OK": {
+		"lat": 36.100736320336,
+		"lng": -96.019551357576,
+		"source": "census"
+	},
+	"7353 E LATIMER PL, TULSA, OK 74115": {
+		"lat": 36.170311567007,
+		"lng": -95.895083820812,
+		"source": "census"
+	},
+	"1711 E 26 PL N, TULSA, OK 74110": {
+		"lat": 36.192517329474,
+		"lng": -95.966842544808,
+		"source": "census"
+	},
+	"5516 N FRANKFORT AVE, TULSA, OK 74126": {
+		"lat": 36.233738254091,
+		"lng": -95.990219375524,
+		"source": "census"
+	},
+	"5516 N FRANKFORT AVE, TULSA, OK": {
+		"lat": 36.233738254091,
+		"lng": -95.990219375524,
+		"source": "census"
+	},
+	"6201 E VIRGIN ST, TULSA, OK 74115": {
+		"lat": 36.184383941685,
+		"lng": -95.907979522633,
+		"source": "census"
+	},
+	"531 S WHEELING AVE, TULSA, OK": {
+		"lat": 36.15347752852,
+		"lng": -95.96463121742,
+		"source": "census"
+	},
+	"1325 N PEORIA AVE, TULSA, OK 74106": {
+		"lat": 36.173393680117,
+		"lng": -95.975513674564,
+		"source": "census"
+	},
+	"1300 N IRVINGTON AVE, TULSA, OK 74115": {
+		"lat": 36.173220262566,
+		"lng": -95.913004484607,
+		"source": "census"
+	},
+	"3617 W 44 PL S, TULSA, OK 74107": {
+		"lat": 36.099160787049,
+		"lng": -96.033149863814,
+		"source": "census"
+	},
+	"4204 N HARTFORD AVE, TULSA, OK": {
+		"lat": 36.214748094455,
+		"lng": -95.984605834749,
+		"source": "census"
+	},
+	"1708 N BIRMINGHAM AVE, Tulsa, OK": {
+		"lat": 36.179710192962,
+		"lng": -95.954004439615,
+		"source": "census"
+	},
+	"2741 E ADMIRAL CT, Tulsa, OK": {
+		"lat": 36.16176878305,
+		"lng": -95.950608872999,
+		"source": "census"
+	},
+	"5908 S LEWIS AVE, TULSA, OK 74105": {
+		"lat": 36.078572178386,
+		"lng": -95.958039134654,
+		"source": "census"
+	},
+	"4842 S 78 E PL, Tulsa, OK": {
+		"lat": 36.094082758941,
+		"lng": -95.890412982915,
+		"source": "census"
+	},
+	"723 S QUANAH AVE, Tulsa, OK": {
+		"lat": 36.14774401968,
+		"lng": -96.006890490291,
+		"source": "census"
+	},
+	"10901 E 25 ST, Tulsa, OK": {
+		"lat": 36.128677425145,
+		"lng": -95.854775270642,
+		"source": "census"
+	},
+	"6521 E 27 ST, TULSA, OK 74129": {
+		"lat": 36.124292538022,
+		"lng": -95.904047302105,
+		"source": "census"
+	},
+	"10623 E 33 PL, Tulsa, OK": {
+		"lat": 36.114506330097,
+		"lng": -95.858480012494,
+		"source": "census"
+	},
+	"9318 E 46 PL, TULSA, OK  74145": {
+		"lat": 36.095004004965,
+		"lng": -95.871668122083,
+		"source": "census"
+	},
+	"3300 S 127 E AVE, TULSA, OK 74146": {
+		"lat": 36.113920008976,
+		"lng": -95.834995770384,
+		"source": "census"
+	},
+	"2211 N OWASSO AVE, TULSA, OK 74106": {
+		"lat": 36.186112928978,
+		"lng": -95.976539384626,
+		"source": "census"
+	},
+	"1389 E 27 ST, TULSA, OK 74117": {
+		"lat": 36.125679819095,
+		"lng": -95.973713170051,
+		"source": "census"
+	},
+	"3821 S 29 W AVE, TULSA, OK 74107": {
+		"lat": 36.107408134026,
+		"lng": -96.025511525054,
+		"source": "census"
+	},
+	"111 N NOGALES AVE, Tulsa, OK": {
+		"lat": 36.155069698059,
+		"lng": -96.003026246994,
+		"source": "census"
+	},
+	"4338 N HARTFORD AVE, TULSA, OK 74106": {
+		"lat": 36.216945650786,
+		"lng": -95.984594153421,
+		"source": "census"
+	},
+	"5924 E KING PL, TULSA, OK 74115": {
+		"lat": 36.168834898705,
+		"lng": -95.911458610662,
+		"source": "census"
+	},
+	"2740 E 41 ST N, TULSA, OK 74110": {
+		"lat": 36.213314225853,
+		"lng": -95.950532984447,
+		"source": "census"
+	},
+	"2702 E 15 ST, TULSA, OK 74104": {
+		"lat": 36.140482533584,
+		"lng": -95.951390138634,
+		"source": "census"
+	},
+	"7709 E 31 ST, TULSA, OK 74145": {
+		"lat": 36.118977755034,
+		"lng": -95.890946764161,
+		"source": "census"
+	},
+	"2011 N BIRMINGHAM PL, TULSA, OK 74110": {
+		"lat": 36.183359775383,
+		"lng": -95.953122481871,
+		"source": "census"
+	},
+	"3844 N PEORIA AVE, Tulsa, OK": {
+		"lat": 36.21081043443,
+		"lng": -95.975619988435,
+		"source": "census"
+	},
+	"3221 S DARLINGTON AVE, TULSA, OK 74135": {
+		"lat": 36.116009672414,
+		"lng": -95.918834314434,
+		"source": "census"
+	},
+	"11404 E 4 PL, TULSA, OK 74128": {
+		"lat": 36.154890261731,
+		"lng": -95.849795558546,
+		"source": "census"
+	},
+	"1445 N KINGSTON PL, Tulsa, OK": {
+		"lat": 36.176258081495,
+		"lng": -95.909608409052,
+		"source": "census"
+	},
+	"4344 N LEWIS AVE, TULSA, OK 74103": {
+		"lat": 36.217628903352,
+		"lng": -95.958324465006,
+		"source": "census"
+	},
+	"8506 E 62 ST, TULSA, OK 74133": {
+		"lat": 36.074226284054,
+		"lng": -95.882460532559,
+		"source": "census"
+	},
+	"5136 E 21 ST, TULSA, OK 74114": {
+		"lat": 36.133289309358,
+		"lng": -95.918947340881,
+		"source": "census"
+	},
+	"49 S TOLEDO AVE, Tulsa, OK": {
+		"lat": 36.158278186804,
+		"lng": -95.926624000256,
+		"source": "census"
+	},
+	"6655 E 46 PL, Tulsa, OK": {
+		"lat": 36.096656705886,
+		"lng": -95.902814490008,
+		"source": "census"
+	},
+	"117 S 43 W AVE, TULSA, OK 74127": {
+		"lat": 36.15447962322,
+		"lng": -96.040776931923,
+		"source": "census"
+	},
+	"2377 S 96 E AVE, Tulsa, OK": {
+		"lat": 36.128476044385,
+		"lng": -95.86855067431,
+		"source": "census"
+	},
+	"8102 S YUKON AVE, Tulsa, OK": {
+		"lat": 36.045571045789,
+		"lng": -96.01623044101,
+		"source": "census"
+	},
+	"549 E 54 ST N, Tulsa, OK": {
+		"lat": 36.231390223544,
+		"lng": -95.987247910306,
+		"source": "census"
+	},
+	"1830 N ST LOUIS AVE, TULSA, OK 74115": {
+		"lat": 36.18144100066,
+		"lng": -95.97108904951,
+		"source": "census"
+	},
+	"6818 S TOLEDO AVE, TULSA, OK": {
+		"lat": 36.064687507995,
+		"lng": -95.926097991411,
+		"source": "census"
+	},
+	"2319 S 96 E AVE. APT B, TULSA, OK 74129": {
+		"lat": 36.129876881807,
+		"lng": -95.868626455111,
+		"source": "census"
+	},
+	"4735 S 90 E AVE, Tulsa, OK": {
+		"lat": 36.09493384166,
+		"lng": -95.875863365759,
+		"source": "census"
+	},
+	"2910 MOHAWK BLVD, TULSA, OK 74110": {
+		"lat": 36.210529990394,
+		"lng": -95.94534552753,
+		"source": "census"
+	},
+	"4201 S 132 E AVE, Tulsa, OK": {
+		"lat": 36.102034669823,
+		"lng": -95.829938776684,
+		"source": "census"
+	},
+	"24 W 50 PL N, TULSA, OK 74126": {
+		"lat": 36.226504622105,
+		"lng": -95.996072728366,
+		"source": "census"
+	},
+	"13251 E 32 ST, Tulsa, OK": {
+		"lat": 36.116080696037,
+		"lng": -95.829998848663,
+		"source": "census"
+	},
+	"2007 N QUINCY AVE, TULSA, OK": {
+		"lat": 36.183207783858,
+		"lng": -95.973198966226,
+		"source": "census"
+	},
+	"5525 E XYLER ST, Tulsa, OK": {
+		"lat": 36.187403340567,
+		"lng": -95.914681804779,
+		"source": "census"
+	},
+	"526 E 32 ST N, TULSA, OK": {
+		"lat": 36.200455167345,
+		"lng": -95.987187209547,
+		"source": "census"
+	},
+	"11051 E 14 ST, TULSA, OK 74128": {
+		"lat": 36.142400997378,
+		"lng": -95.853353521134,
+		"source": "census"
+	},
+	"4157 S RIVERSIDE DR, TULSA, OK": {
+		"lat": 36.102621348025,
+		"lng": -95.983612648703,
+		"source": "census"
+	},
+	"3245 S 136 E AVE, TULSA, OK 74134": {
+		"lat": 36.116289300373,
+		"lng": -95.824726068124,
+		"source": "census"
+	},
+	"6222 S PEORIA AVE, TULSA, OK": {
+		"lat": 36.073130662654,
+		"lng": -95.975843949682,
+		"source": "census"
+	},
+	"1143 N WACO AVE, Tulsa, OK": {
+		"lat": 36.170311810806,
+		"lng": -96.01369083181,
+		"source": "census"
+	},
+	"9018 E 29 ST, TULSA, OK74129": {
+		"lat": 36.121557797313,
+		"lng": -95.874116625983,
+		"source": "census"
+	},
+	"12714 E 39 ST, TULSA, OK 74106": {
+		"lat": 36.107327367193,
+		"lng": -95.836531247822,
+		"source": "census"
+	},
+	"1504 N KNOXVILLE AVE, TULSA, OK 74115": {
+		"lat": 36.177397874796,
+		"lng": -95.938447495271,
+		"source": "census"
+	},
+	"3346 E 27 PL, TULSA, OK 74114": {
+		"lat": 36.123393872375,
+		"lng": -95.93972263536,
+		"source": "census"
+	},
+	"548 S 74 E AVE, TULSA, OK 74112": {
+		"lat": 36.15344913941,
+		"lng": -95.894650371093,
+		"source": "census"
+	},
+	"4317 S SHERIDAN RD, TULSA, OK": {
+		"lat": 36.100690220961,
+		"lng": -95.904427765488,
+		"source": "census"
+	},
+	"1223 N 67 E AVE, TULSA, OK 74115": {
+		"lat": 36.17203536122,
+		"lng": -95.901624294569,
+		"source": "census"
+	},
+	"1012 W 88 ST, Tulsa, OK": { "lat": 36.036554886181, "lng": -96.04085718485, "source": "census" },
+	"727 E MOHAWK BLVD, Tulsa, OK": {
+		"lat": 36.194135054449,
+		"lng": -95.983043000526,
+		"source": "census"
+	},
+	"5013 S 165 E AVE, Tulsa, OK": {
+		"lat": 36.091639462835,
+		"lng": -95.792507568811,
+		"source": "census"
+	},
+	"11051 E 14 ST, TULSA, OK": {
+		"lat": 36.142400997378,
+		"lng": -95.853353521134,
+		"source": "census"
+	},
+	"1661 E VIRGIN ST, TULSA, OK": {
+		"lat": 36.184312512447,
+		"lng": -95.968597794502,
+		"source": "census"
+	},
+	"6203 E 28 ST S, TULSA, OK": {
+		"lat": 36.122197727863,
+		"lng": -95.905963191016,
+		"source": "census"
+	},
+	"6203 E 28 ST, TULSA, OK": {
+		"lat": 36.122197727863,
+		"lng": -95.905963191016,
+		"source": "census"
+	},
+	"1042 N TRENTON AVE, Tulsa, OK": {
+		"lat": 36.16862985573,
+		"lng": -95.969431030636,
+		"source": "census"
+	},
+	"4100 S RIVERSIDE DR, Tulsa, OK": {
+		"lat": 36.104270763887,
+		"lng": -95.983536037105,
+		"source": "census"
+	},
+	"2714 E 56 PL, Tulsa, OK": {
+		"lat": 36.081012136373,
+		"lng": -95.950043318491,
+		"source": "census"
+	},
+	"6020 E XYLER ST, Tulsa, OK": {
+		"lat": 36.187041603384,
+		"lng": -95.910520453059,
+		"source": "census"
+	},
+	"7440 E 7 ST, TULSA, OK": { "lat": 36.151522764587, "lng": -95.890802553506, "source": "census" },
+	"6930 E NEWTON ST, Tulsa, OK": {
+		"lat": 36.172946060477,
+		"lng": -95.89974074771,
+		"source": "census"
+	},
+	"916 N TRENTON AVE, Tulsa, OK": {
+		"lat": 36.167066358281,
+		"lng": -95.969438496912,
+		"source": "census"
+	},
+	"4648 S 31 W AVE, Tulsa, OK": {
+		"lat": 36.096137017373,
+		"lng": -96.027357475877,
+		"source": "census"
+	},
+	"6226 N BOULDER AVE, TULSA, OK 74129": {
+		"lat": 36.243446118244,
+		"lng": -95.996915666208,
+		"source": "census"
+	},
+	"2462 N MARION AVE, TULSA, OK": {
+		"lat": 36.189947244856,
+		"lng": -95.934085444986,
+		"source": "census"
+	},
+	"2127 S OSWEGO AVE, TULSA, OK": {
+		"lat": 36.132514532688,
+		"lng": -95.932950914655,
+		"source": "census"
+	},
+	"5332 E LATIMER PL, TULSA, OK 74115": {
+		"lat": 36.170115475692,
+		"lng": -95.917016553756,
+		"source": "census"
+	},
+	"5632 S WACO AVE, Tulsa, OK": {
+		"lat": 36.081392461988,
+		"lng": -96.014410087325,
+		"source": "census"
+	},
+	"8665 E 61 ST, Tulsa, OK": {
+		"lat": 36.075461909063,
+		"lng": -95.879977203141,
+		"source": "census"
+	},
+	"5808 S PEORIA AVE, Tulsa, OK": {
+		"lat": 36.078717636097,
+		"lng": -95.975834968582,
+		"source": "census"
+	},
+	"1727 S UTICA AVE, Tulsa, OK": {
+		"lat": 36.137672131952,
+		"lng": -95.967026700055,
+		"source": "census"
+	},
+	"724 N MARION AVE, TULSA, OK": {
+		"lat": 36.164902764623,
+		"lng": -95.934248256936,
+		"source": "census"
+	},
+	"3441 E ARCHER ST, Tulsa, OK": {
+		"lat": 36.162660530709,
+		"lng": -95.938717280884,
+		"source": "census"
+	},
+	"3116 E WOODROW ST, TULSA, OK": {
+		"lat": 36.185226942777,
+		"lng": -95.944306063889,
+		"source": "census"
+	},
+	"2008 N ATLANTA AVE, TULSA, OK": {
+		"lat": 36.183361513875,
+		"lng": -95.956559740518,
+		"source": "census"
+	},
+	"4740 S BRADEN AVE, Tulsa, OK": {
+		"lat": 36.095375579641,
+		"lng": -95.920149803992,
+		"source": "census"
+	},
+	"1535 N COLUMBIA PL, Tulsa, OK": {
+		"lat": 36.177793861174,
+		"lng": -95.95092216521,
+		"source": "census"
+	},
+	"1122 E 61 ST, Tulsa, OK": {
+		"lat": 36.075172781827,
+		"lng": -95.977731650684,
+		"source": "census"
+	},
+	"4630 S DARLINGTON AVE, Tulsa, OK": {
+		"lat": 36.096803520151,
+		"lng": -95.917893996828,
+		"source": "census"
+	},
+	"5908 N ELGIN AVE, Tulsa, OK": {
+		"lat": 36.239159933264,
+		"lng": -95.991064122901,
+		"source": "census"
+	},
+	"7964 S SHERIDAN RD, Tulsa, OK": {
+		"lat": 36.049164449247,
+		"lng": -95.904298876833,
+		"source": "census"
+	},
+	"2448 E 1 ST, Tulsa, OK": { "lat": 36.158628892064, "lng": -95.956779884605, "source": "census" },
+	"11830 E 38 ST, Tulsa, OK": {
+		"lat": 36.108420339573,
+		"lng": -95.846185750469,
+		"source": "census"
+	},
+	"7300 E JASPER ST, Tulsa, OK": {
+		"lat": 36.167570869176,
+		"lng": -95.895348304241,
+		"source": "census"
+	},
+	"2864 E 44 PL N, Tulsa, OK": {
+		"lat": 36.217934295711,
+		"lng": -95.946328514027,
+		"source": "census"
+	},
+	"6773 E INDEPENDENCE PL, Tulsa, OK": {
+		"lat": 36.166957349867,
+		"lng": -95.901086878798,
+		"source": "census"
+	},
+	"6710 E INDEPENDENCE ST, Tulsa, OK": {
+		"lat": 36.166026640515,
+		"lng": -95.90161805088,
+		"source": "census"
+	},
+	"1059 E 60 ST  #212, Tulsa, OK": {
+		"lat": 36.077111508966,
+		"lng": -95.979620602128,
+		"source": "census"
+	},
+	"4313 S GARNETT RD, Tulsa, OK": {
+		"lat": 36.10162578868,
+		"lng": -95.850973800384,
+		"source": "census"
+	},
+	"507 S 53 W AVE, Tulsa, OK": {
+		"lat": 36.1496690536,
+		"lng": -96.051603075692,
+		"source": "census"
+	},
+	"4650 E INDEPENDENCE ST, Tulsa, OK": {
+		"lat": 36.166521055359,
+		"lng": -95.924715930283,
+		"source": "census"
+	},
+	"1508 S GARY AVE, Tulsa, OK": {
+		"lat": 36.140365938713,
+		"lng": -95.942672925929,
+		"source": "census"
+	},
+	"11804 E 14 ST, Tulsa, OK": {
+		"lat": 36.142478303939,
+		"lng": -95.845500025223,
+		"source": "census"
+	},
+	"521 N 44 W AVE, Tulsa, OK": {
+		"lat": 36.160186083086,
+		"lng": -96.04149416111,
+		"source": "census"
+	},
+	"4234 N IROQUOIS AVE, Tulsa, OK": {
+		"lat": 36.215629375231,
+		"lng": -95.983300545593,
+		"source": "census"
+	},
+	"6338 E ZION ST, Tulsa, OK": {
+		"lat": 36.19069667342,
+		"lng": -95.905902469837,
+		"source": "census"
+	},
+	"901 N ELGIN AVE, Tulsa, OK": {
+		"lat": 36.166740129753,
+		"lng": -95.991223273465,
+		"source": "census"
+	},
+	"1545 E 71, Tulsa, OK": { "lat": 36.17711494428, "lng": -95.993434152802, "source": "census" },
+	"10627 E 18 PL, Tulsa, OK": {
+		"lat": 36.13598879241,
+		"lng": -95.857906910605,
+		"source": "census"
+	},
+	"2100 W 41 PL, Tulsa, OK": {
+		"lat": 36.103434777318,
+		"lng": -96.016034898892,
+		"source": "census"
+	},
+	"1405 N MLK, Tulsa, OK": { "lat": 36.175001772671, "lng": -95.99344259458, "source": "census" },
+	"2552 N MADISON AVE, Tulsa, OK": {
+		"lat": 36.190750954614,
+		"lng": -95.979502607171,
+		"source": "census"
+	},
+	"8616 E 48 ST, Tulsa, OK": {
+		"lat": 36.094229887391,
+		"lng": -95.880327536572,
+		"source": "census"
+	},
+	"5326 E ZION ST, TULSA, OK": {
+		"lat": 36.190051106355,
+		"lng": -95.917382722706,
+		"source": "census"
+	},
+	"724 E 54 ST N, Tulsa, OK": {
+		"lat": 36.231277035756,
+		"lng": -95.984001408083,
+		"source": "census"
+	},
+	"12141 E 37 ST S, TULSA, OK": {
+		"lat": 36.10937831687,
+		"lng": -95.841182227245,
+		"source": "census"
+	},
+	"2508 S OSWEGO AVE, TULSA, OK": {
+		"lat": 36.127501755521,
+		"lng": -95.935026192826,
+		"source": "census"
+	},
+	"12616 E 26 ST, Tulsa, OK": {
+		"lat": 36.126553341325,
+		"lng": -95.835395917025,
+		"source": "census"
+	},
+	"518 S XANTHUS AVE, Tulsa, OK": {
+		"lat": 36.153680740111,
+		"lng": -95.963520202222,
+		"source": "census"
+	},
+	"1341 E 52 ST N, Tulsa, OK": {
+		"lat": 36.229844610247,
+		"lng": -95.97441936362,
+		"source": "census"
+	},
+	"4752 S HARVARD AVE, Tulsa, OK": {
+		"lat": 36.094058550621,
+		"lng": -95.940245336556,
+		"source": "census"
+	},
+	"16304 E 48 ST, Tulsa, OK": {
+		"lat": 36.095147309849,
+		"lng": -95.796140901982,
+		"source": "census"
+	},
+	"1736 W 89 ST, Tulsa, OK": {
+		"lat": 36.034352331781,
+		"lng": -96.012130000881,
+		"source": "census"
+	},
+	"7607 E 21 ST, TULSA, OK": {
+		"lat": 36.134903541404,
+		"lng": -95.891207381744,
+		"source": "census"
+	},
+	"1007 N QUAKER AVE, Tulsa, OK": {
+		"lat": 36.168064988275,
+		"lng": -95.974293515927,
+		"source": "census"
+	},
+	"5437 N GARRISON PL, TULSA, OK": {
+		"lat": 36.2326806562,
+		"lng": -95.985501557072,
+		"source": "census"
+	},
+	"9111 S MINGO RD, Tulsa, OK": {
+		"lat": 36.031694229934,
+		"lng": -95.868440779743,
+		"source": "census"
+	},
+	"3145 E 78 PL, Tulsa, OK": { "lat": 36.049658430656, "lng": -95.94288026362, "source": "census" },
+	"2222 N FLORENCE AVE, Tulsa, OK": {
+		"lat": 36.185907230318,
+		"lng": -95.944841113745,
+		"source": "census"
+	},
+	"11418 E 34 ST, Tulsa, OK": {
+		"lat": 36.113824114716,
+		"lng": -95.849858099599,
+		"source": "census"
+	},
+	"1221 N OSWEGO AVE, Tulsa, OK": {
+		"lat": 36.172224016678,
+		"lng": -95.931864036936,
+		"source": "census"
+	},
+	"9014 E 31 ST, Tulsa, OK": {
+		"lat": 36.118886204476,
+		"lng": -95.874541193288,
+		"source": "census"
+	},
+	"5137 N FRANKFORT AVE, Tulsa, OK": {
+		"lat": 36.228535780304,
+		"lng": -95.988970226366,
+		"source": "census"
+	},
+	"333 S. 129 E AVE, TULSA, OK 74108": {
+		"lat": 36.155079513921,
+		"lng": -95.833244564365,
+		"source": "census"
+	},
+	"3937 E ADMIRAL CT, Tulsa, OK": {
+		"lat": 36.161743102165,
+		"lng": -95.933123359949,
+		"source": "census"
+	},
+	"3936 E ADMIRAL CT, TULSA, OK": {
+		"lat": 36.161628511862,
+		"lng": -95.933123972502,
+		"source": "census"
+	},
+	"10103 E 26 PL, Tulsa, OK": { "lat": 36.123737029, "lng": -95.863925934909, "source": "census" },
+	"1348 N CANTON AVE, Tulsa, OK": {
+		"lat": 36.174342032367,
+		"lng": -95.919214943523,
+		"source": "census"
+	},
+	"3177 S 76 E AVE, Tulsa, OK": {
+		"lat": 36.11702644211,
+		"lng": -95.89345904966,
+		"source": "census"
+	},
+	"2600 S 109 E AVE, Tulsa, OK": {
+		"lat": 36.126592783769,
+		"lng": -95.854355767726,
+		"source": "census"
+	},
+	"8305 E 60 ST, Tulsa, OK": {
+		"lat": 36.077951052422,
+		"lng": -95.884079463907,
+		"source": "census"
+	},
+	"3760 N BIRMINGHAM AVE, Tulsa, OK": {
+		"lat": 36.209570312768,
+		"lng": -95.954932297938,
+		"source": "census"
+	},
+	"17311 E 31 ST, Tulsa, OK": { "lat": 36.11902935799, "lng": -95.78347964297, "source": "census" },
+	"12517 E 35 ST, Tulsa, OK": {
+		"lat": 36.112252443577,
+		"lng": -95.836993963052,
+		"source": "census"
+	},
+	"5420 E 71 PL, Tulsa, OK": {
+		"lat": 36.059826796137,
+		"lng": -95.915205952143,
+		"source": "census"
+	},
+	"4709 S 26 W AVE, Tulsa, OK": {
+		"lat": 36.095160357152,
+		"lng": -96.021636435183,
+		"source": "census"
+	},
+	"10091 S SHERIDAN RD, Tulsa, OK": {
+		"lat": 36.017560581458,
+		"lng": -95.904165774203,
+		"source": "census"
+	},
+	"3113 W 37 PL, Tulsa, OK": {
+		"lat": 36.108748359834,
+		"lng": -96.027109148782,
+		"source": "census"
+	},
+	"315 W 63 ST N, Tulsa, OK": {
+		"lat": 36.245192030139,
+		"lng": -95.999746301031,
+		"source": "census"
+	},
+	"5115 E 47 PL N, Tulsa, OK": {
+		"lat": 36.094919907639,
+		"lng": -95.919838966001,
+		"source": "census"
+	},
+	"1423 E ADMIRAL BLVD, Tulsa, OK": {
+		"lat": 36.159719898844,
+		"lng": -95.973136074004,
+		"source": "census"
+	},
+	"908 N COLUMBIA AVE, Tulsa, OK": {
+		"lat": 36.167277829379,
+		"lng": -95.951572371399,
+		"source": "census"
+	},
+	"1347 N BOSTON PL, Tulsa, OK": {
+		"lat": 36.174168434367,
+		"lng": -95.9945676066,
+		"source": "census"
+	},
+	"9013 E 32 ST, Tulsa, OK": {
+		"lat": 36.117139222847,
+		"lng": -95.875692762478,
+		"source": "census"
+	},
+	"1015 E 52 ST N, Tulsa, OK": {
+		"lat": 36.229027289165,
+		"lng": -95.978889960148,
+		"source": "census"
+	},
+	"4940 N FRANKFORT, Tulsa, OK": {
+		"lat": 36.225649094207,
+		"lng": -95.989077468196,
+		"source": "census"
+	},
+	"12525 E 52 ST, Tulsa, OK": {
+		"lat": 36.088228485328,
+		"lng": -95.836984700715,
+		"source": "census"
+	},
+	"815 N FLORENCE PL, Tulsa, OK": {
+		"lat": 36.16647327415,
+		"lng": -95.943615713071,
+		"source": "census"
+	},
+	"12573 E 41 ST, Tulsa, OK": {
+		"lat": 36.104587042948,
+		"lng": -95.836989349388,
+		"source": "census"
+	},
+	"7749 S MINGO RD, Tulsa, OK": {
+		"lat": 36.051858365184,
+		"lng": -95.868418134327,
+		"source": "census"
+	},
+	"47 S 85TH E AVE, Tulsa, OK": {
+		"lat": 36.160218489574,
+		"lng": -95.882188789435,
+		"source": "census"
+	},
+	"47 S 85 E AVE, TULSA, OK 74112": {
+		"lat": 36.160218489574,
+		"lng": -95.882188789435,
+		"source": "census"
+	},
+	"359 S RICHMOND AVE, Tulsa, OK": {
+		"lat": 36.155549579166,
+		"lng": -95.92899731381,
+		"source": "census"
+	},
+	"5917 W 8 ST, TULSA, OK 74127": {
+		"lat": 36.147293953902,
+		"lng": -96.058867733542,
+		"source": "census"
+	},
+	"8324 E 13 ST, Tulsa, OK": {
+		"lat": 36.144303231388,
+		"lng": -95.883629633661,
+		"source": "census"
+	},
+	"8709 S 73 E AVE, Tulsa, OK": {
+		"lat": 36.037171104196,
+		"lng": -95.894758928732,
+		"source": "census"
+	},
+	"268 E 52 PL N, Tulsa, OK": {
+		"lat": 36.229719657724,
+		"lng": -95.992323363794,
+		"source": "census"
+	},
+	"6725 E 27 PL, Tulsa, OK": {
+		"lat": 36.123514180314,
+		"lng": -95.900017510676,
+		"source": "census"
+	},
+	"3752 S 29 W AVE, Tulsa, OK": {
+		"lat": 36.108318058281,
+		"lng": -96.025636077418,
+		"source": "census"
+	},
+	"12529 E 38 ST, Tulsa, OK": {
+		"lat": 36.108807762363,
+		"lng": -95.836423741752,
+		"source": "census"
+	},
+	"48 N GARY AVE,TULSA, OK": {
+		"lat": 36.161683672513,
+		"lng": -95.942627634152,
+		"source": "census"
+	},
+	"7715 S ST LOUIS AVE, Tulsa, OK": {
+		"lat": 36.052186552308,
+		"lng": -95.969535444055,
+		"source": "census"
+	},
+	"1400 S DARLINGTON AVE, Tulsa, OK": {
+		"lat": 36.142342074116,
+		"lng": -95.91811985704,
+		"source": "census"
+	},
+	"3715 E 4 PL, Tulsa, OK": { "lat": 36.155106299931, "lng": -95.935649658391, "source": "census" },
+	"2170 S 109 E AVE, Tulsa, OK": {
+		"lat": 36.131227724389,
+		"lng": -95.855046944647,
+		"source": "census"
+	},
+	"740 E 34 ST N, Tulsa, OK": {
+		"lat": 36.203517596536,
+		"lng": -95.984334676063,
+		"source": "census"
+	},
+	"3706 W 55 ST, Tulsa, OK": { "lat": 36.083987324074, "lng": -96.03424746482, "source": "census" },
+	"1712 S OLYMPIA AVE, TULSA, OK": {
+		"lat": 36.137429645943,
+		"lng": -96.004591125277,
+		"source": "census"
+	},
+	"5137 N FRANKFORT AVE, TULSA, OK 74126": {
+		"lat": 36.228535780304,
+		"lng": -95.988970226366,
+		"source": "census"
+	},
+	"4697 S COLUMBIA AVE, TULSA, OK 74105": {
+		"lat": 36.094897053605,
+		"lng": -95.951754915704,
+		"source": "census"
+	},
+	"7000 S MEMORIAL DR, Tulsa, OK": {
+		"lat": 36.062100404404,
+		"lng": -95.886412300321,
+		"source": "census"
+	},
+	"4206 E YOUNG PL., TULSA, OK, 74115": {
+		"lat": 36.189331764173,
+		"lng": -95.929732964515,
+		"source": "census"
+	},
+	"6129 W 7 ST, TULSA, OK 74127": {
+		"lat": 36.148517709879,
+		"lng": -96.061003372076,
+		"source": "census"
+	},
+	"2934 S 130 E AVE, Tulsa, OK": {
+		"lat": 36.120946565814,
+		"lng": -95.831364127688,
+		"source": "census"
+	},
+	"1612 N 66 E AVE, Tulsa, OK": {
+		"lat": 36.179061115513,
+		"lng": -95.903090714343,
+		"source": "census"
+	},
+	"6323 S OWASSO AVE, TULSA, OK 74136": {
+		"lat": 36.071954358329,
+		"lng": -95.977435624488,
+		"source": "census"
+	},
+	"7116 E OKLAHOMA ST, TULSA, OK": {
+		"lat": 36.175191444139,
+		"lng": -95.897645388972,
+		"source": "census"
+	},
+	"7116 E OKLAHOMA ST, TULSA, OK 74115": {
+		"lat": 36.175191444139,
+		"lng": -95.897645388972,
+		"source": "census"
+	},
+	"6612 S ZUNIS AVE APT 105, Tulsa, OK": {
+		"lat": 36.067318718814,
+		"lng": -95.960455110632,
+		"source": "census"
+	},
+	"710 S ST LOUIS AVE, TULSA, OK": {
+		"lat": 36.15130186402,
+		"lng": -95.971084409473,
+		"source": "census"
+	},
+	"221 S QUEBEC AVE, Tulsa, OK": {
+		"lat": 36.157135224657,
+		"lng": -95.930166273792,
+		"source": "census"
+	},
+	"7408 E 20 ST, Tulsa, OK": {
+		"lat": 36.135894523458,
+		"lng": -95.894933160193,
+		"source": "census"
+	},
+	"4104 S 32 W AVE, Tulsa, OK": {
+		"lat": 36.104396645679,
+		"lng": -96.028325560665,
+		"source": "census"
+	},
+	"1531 SOUTHWEST BLVD, APT12L, TULSA ,OK, Tulsa, OK": {
+		"lat": 36.14037645656,
+		"lng": -96.00669881654,
+		"source": "census"
+	},
+	"3825 S RIVERSIDE DR, Tulsa, OK": {
+		"lat": 36.107181314357,
+		"lng": -95.982740190141,
+		"source": "census"
+	},
+	"1252 N BRANDEN AVE, TULSA, OK": {
+		"lat": 36.172732618275,
+		"lng": -95.920346584074,
+		"source": "census"
+	},
+	"6805 S LEWIS AVE, Tulsa, OK": {
+		"lat": 36.065042599102,
+		"lng": -95.957834523602,
+		"source": "census"
+	},
+	"12509 E 17 ST, Tulsa, OK": {
+		"lat": 36.137838518181,
+		"lng": -95.837054380337,
+		"source": "census"
+	},
+	"2430 S JACKSON AVE. APT9C TULSA, OK": {
+		"lat": 36.127455434812,
+		"lng": -95.999516773029,
+		"source": "census"
+	},
+	"817 N OXFORD AVE, TULSA, OK": {
+		"lat": 36.166376286915,
+		"lng": -95.905759905988,
+		"source": "census"
+	},
+	"2823 W EASTON PL, Tulsa, OK": {
+		"lat": 36.159825965025,
+		"lng": -96.024030516437,
+		"source": "census"
+	},
+	"3548 E KING PL, Tulsa, OK": {
+		"lat": 36.168893303906,
+		"lng": -95.93615376528,
+		"source": "census"
+	},
+	"544 W NEWTON ST. APT 544, Tulsa, OK": {
+		"lat": 36.173166297166,
+		"lng": -96.001710136882,
+		"source": "census"
+	},
+	"2804 S WINSTON AVE, Tulsa, OK": {
+		"lat": 36.121963481408,
+		"lng": -95.923600535455,
+		"source": "census"
+	},
+	"2426 S JACKSON AVE., APT 12D, TULSA, OK": {
+		"lat": 36.12752584719,
+		"lng": -95.999515980884,
+		"source": "census"
+	},
+	"9313 S 94 E AVE, TULSA, OK": {
+		"lat": 36.028301938491,
+		"lng": -95.871288745934,
+		"source": "census"
+	},
+	"951 W 22 PL, Tulsa, OK": { "lat": 36.130785824029, "lng": -96.002622617097, "source": "census" },
+	"12307 E ADMIRAL CT, Tulsa, OK": {
+		"lat": 36.162033151186,
+		"lng": -95.839703367746,
+		"source": "census"
+	},
+	"816 N FLORENCE PL, TULSA, OK": {
+		"lat": 36.166497022261,
+		"lng": -95.943757626313,
+		"source": "census"
+	},
+	"2112 N DARLINGTON PL, TULSA, OK": {
+		"lat": 36.184488808198,
+		"lng": -95.917444382394,
+		"source": "census"
+	},
+	"1419 N NOGALES AVE, TULSA, OK": {
+		"lat": 36.17583007082,
+		"lng": -96.00297755766,
+		"source": "census"
+	},
+	"4503 E XYLER ST, TULSA, OK": {
+		"lat": 36.187627366707,
+		"lng": -95.926739921819,
+		"source": "census"
+	},
+	"413 N ZURICH, Tulsa, OK": { "lat": 36.155640121028, "lng": -95.92089059545, "source": "census" },
+	"5325 E ZION ST, TULSA, OK": {
+		"lat": 36.190166369916,
+		"lng": -95.917422401027,
+		"source": "census"
+	},
+	"311 E 36 PL N, TULSA, OK": {
+		"lat": 36.206004711703,
+		"lng": -95.991459265209,
+		"source": "census"
+	},
+	"4517 W 8 ST, TULSA, OK": { "lat": 36.146672769663, "lng": -96.042956261941, "source": "census" },
+	"11515 E 7 PL, Tulsa, OK": {
+		"lat": 36.152003902585,
+		"lng": -95.847297602853,
+		"source": "census"
+	},
+	"1039 N COLLEGE AVE, TULSA, OK": {
+		"lat": 36.168790687157,
+		"lng": -95.945833429191,
+		"source": "census"
+	},
+	"6520 E KING ST, TULSA ,OK, Tulsa, OK": {
+		"lat": 36.168365201023,
+		"lng": -95.904209344561,
+		"source": "census"
+	},
+	"4740 S BRADEN AVE, TULSA, OK": {
+		"lat": 36.095375579641,
+		"lng": -95.920149803992,
+		"source": "census"
+	},
+	"1215 E 63 ST, TULSA, OK": { "lat": 36.07244646887, "lng": -95.976820444045, "source": "census" },
+	"7027 S 33 ST, TULSA, OK": {
+		"lat": 36.067321836458,
+		"lng": -96.029478129993,
+		"source": "census"
+	},
+	"3720 E ADMIRAL PL, TULSA, OK": {
+		"lat": 36.160730305303,
+		"lng": -95.935074469307,
+		"source": "census"
+	},
+	"6016 S SANTA FE AVE, TULSA, OK": {
+		"lat": 36.076384766126,
+		"lng": -96.008899133582,
+		"source": "census"
+	},
+	"12446 E 14 S, TULSA, OK": {
+		"lat": 36.142348765967,
+		"lng": -95.836360311104,
+		"source": "census"
+	},
+	"2862 E 51 ST, APT G, TULSA, OK": {
+		"lat": 36.089747318568,
+		"lng": -95.947157573233,
+		"source": "census"
+	},
+	"2424 S 92 E AVE, Tulsa, OK": {
+		"lat": 36.12800683781,
+		"lng": -95.873368279163,
+		"source": "census"
+	},
+	"2428 S 121 E AVE, Tulsa, OK": {
+		"lat": 36.129155861017,
+		"lng": -95.841740109024,
+		"source": "census"
+	},
+	"409 S 60 W AVE, TULSA, OK": {
+		"lat": 36.149327257818,
+		"lng": -96.059509440886,
+		"source": "census"
+	},
+	"527 E SEMINOLE ST, Tulsa, OK": {
+		"lat": 36.180567576169,
+		"lng": -95.98870475841,
+		"source": "census"
+	},
+	"10908 E 37 ST, Tulsa, OK": {
+		"lat": 36.109741977493,
+		"lng": -95.854909341555,
+		"source": "census"
+	},
+	"5056 N PEORIA AVE, Tulsa, OK": {
+		"lat": 36.227306386676,
+		"lng": -95.975616995422,
+		"source": "census"
+	},
+	"1500 E PINE ST, Tulsa, OK": {
+		"lat": 36.176956756733,
+		"lng": -95.971629155765,
+		"source": "census"
+	},
+	"6925 E 16 ST, TULSA, OK": { "lat": 36.139168828057, "lng": -95.90017730147, "source": "census" },
+	"119 N ATLANTA PL, TULSA, OK": {
+		"lat": 36.162718615831,
+		"lng": -95.954657652886,
+		"source": "census"
+	},
+	"6166 E ARCHER ST, Tulsa, OK": {
+		"lat": 36.162539303592,
+		"lng": -95.908147076739,
+		"source": "census"
+	},
+	"1111 W 81 ST, Tulsa, OK": {
+		"lat": 36.046548857121,
+		"lng": -96.004803749415,
+		"source": "census"
+	},
+	"440 S 68 E AVE, Tulsa, OK": {
+		"lat": 36.156330581656,
+		"lng": -95.901236352826,
+		"source": "census"
+	},
+	"9909 E 38 ST, Tulsa, OK": {
+		"lat": 36.108657471838,
+		"lng": -95.866846329053,
+		"source": "census"
+	},
+	"16525 E 2 ST, Tulsa, OK": {
+		"lat": 36.157058503998,
+		"lng": -95.792960188243,
+		"source": "census"
+	},
+	"4105 S 130 E PL, Tulsa, OK": {
+		"lat": 36.103457242996,
+		"lng": -95.830986589185,
+		"source": "census"
+	},
+	"1106 E QUEEN ST, Tulsa, OK": {
+		"lat": 36.178830356414,
+		"lng": -95.977620081242,
+		"source": "census"
+	},
+	"1901 N YALE AVE, Tulsa, OK": {
+		"lat": 36.181906938843,
+		"lng": -95.922407931693,
+		"source": "census"
+	},
+	"2507 E ADMIRAL CT, TULSA, OK": {
+		"lat": 36.161737513403,
+		"lng": -95.955710116714,
+		"source": "census"
+	},
+	"16 N 36 W AVE, Tulsa, OK": {
+		"lat": 36.155430809269,
+		"lng": -96.032780949346,
+		"source": "census"
+	},
+	"6809 S 29 W AVE, Tulsa, OK": {
+		"lat": 36.064343434831,
+		"lng": -96.023295622947,
+		"source": "census"
+	},
+	"4601 N BOULDER AVE, Tulsa, OK": {
+		"lat": 36.220550889265,
+		"lng": -95.996967921413,
+		"source": "census"
+	},
+	"1347 E SKELLY DR, TULSA, OK": {
+		"lat": 36.089990397485,
+		"lng": -95.974010650853,
+		"source": "census"
+	},
+	"2823 E 97 PL, Tulsa, OK": {
+		"lat": 36.022985592656,
+		"lng": -95.947681872653,
+		"source": "census"
+	},
+	"726 S PHOENIX AVE, TULSA, OK": {
+		"lat": 36.147795547074,
+		"lng": -96.005955256645,
+		"source": "census"
+	},
+	"5011 W 3 ST, TULSA, OK": { "lat": 36.152456670161, "lng": -96.048484080219, "source": "census" },
+	"5011 W 3 ST S, TULSA, OK": {
+		"lat": 36.152456670161,
+		"lng": -96.048484080219,
+		"source": "census"
+	},
+	"1126 W 21 ST, TULSA, OK": { "lat": 36.13340894965, "lng": -96.004902433473, "source": "census" },
+	"901 N ELGIN AVE, TULSA ,OK, Tulsa, OK": {
+		"lat": 36.166740129753,
+		"lng": -95.991223273465,
+		"source": "census"
+	},
+	"10932 E 16 ST, TULSA, OK": {
+		"lat": 36.139347093552,
+		"lng": -95.854275997358,
+		"source": "census"
+	},
+	"1225 E 63 ST S, TULSA, OK": {
+		"lat": 36.245938744252,
+		"lng": -95.976642626547,
+		"source": "census"
+	},
+	"2023 N QUINCY AVE, TULSA, OK 74106": {
+		"lat": 36.18337291764,
+		"lng": -95.973198966213,
+		"source": "census"
+	},
+	"5701 E 71 PL, TULSA, OK": {
+		"lat": 36.059649997462,
+		"lng": -95.912827252397,
+		"source": "census"
+	},
+	"7309 E 31 ST, TULSA, OK": {
+		"lat": 36.118985902097,
+		"lng": -95.895498324751,
+		"source": "census"
+	},
+	"18706 E 21 ST, Tulsa, OK": {
+		"lat": 36.133360603131,
+		"lng": -95.768320014505,
+		"source": "census"
+	},
+	"816 N ST LOUIS AVE, Tulsa, OK": {
+		"lat": 36.165878334249,
+		"lng": -95.970620451376,
+		"source": "census"
+	},
+	"2717 E 93 ST, TULSA, OK": { "lat": 36.029232644283, "lng": -95.94923386235, "source": "census" },
+	"3936 E ADMIRAL CT, TULSA, OK 74115": {
+		"lat": 36.161628511862,
+		"lng": -95.933123972502,
+		"source": "census"
+	},
+	"4621 S 30 W AVE, TULSA, OK": {
+		"lat": 36.096704834672,
+		"lng": -96.02605845675,
+		"source": "census"
+	},
+	"1423 N 71 E AVE, Tulsa, OK": {
+		"lat": 36.176000141317,
+		"lng": -95.897791572021,
+		"source": "census"
+	},
+	"2613 E 10 ST, Tulsa, OK": {
+		"lat": 36.148847899762,
+		"lng": -95.953432727126,
+		"source": "census"
+	},
+	"9109 E 88 CT, TULSA, OK": {
+		"lat": 36.034771548992,
+		"lng": -95.875368604373,
+		"source": "census"
+	},
+	"6828 E 47 ST, TULSA, OK": {
+		"lat": 36.095825049876,
+		"lng": -95.901377977268,
+		"source": "census"
+	},
+	"2343 S 99 E AVE, TULSA, OK": {
+		"lat": 36.128889614105,
+		"lng": -95.865913943766,
+		"source": "census"
+	},
+	"824 E 51 PL N, TULSA, OK": {
+		"lat": 36.228088618881,
+		"lng": -95.98120007205,
+		"source": "census"
+	},
+	"3529 E INDEPENDENCE ST, Tulsa, OK": {
+		"lat": 36.166296166865,
+		"lng": -95.937553451098,
+		"source": "census"
+	},
+	"9124 E 87 PL, TULSA ,OK, Tulsa, OK": {
+		"lat": 36.036819524518,
+		"lng": -95.874887031484,
+		"source": "census"
+	},
+	"3318 S 85 E AVE, Tulsa, OK": {
+		"lat": 36.114255761602,
+		"lng": -95.881343839035,
+		"source": "census"
+	},
+	"3742 N BIRMINGHAM AVE, Tulsa, OK": {
+		"lat": 36.209305690845,
+		"lng": -95.955052204761,
+		"source": "census"
+	},
+	"2144 S TOLEDO AVE, Tulsa, OK": {
+		"lat": 36.132068181313,
+		"lng": -95.927379186232,
+		"source": "census"
+	},
+	"5810 E 30 PL, Tulsa, OK": {
+		"lat": 36.119786449124,
+		"lng": -95.909845508443,
+		"source": "census"
+	},
+	"3936 E ADMIRAL CT, Tulsa, OK": {
+		"lat": 36.161628511862,
+		"lng": -95.933123972502,
+		"source": "census"
+	},
+	"732 N VICTOR AVE, TULSA, OK": {
+		"lat": 36.164249799636,
+		"lng": -95.965944211573,
+		"source": "census"
+	},
+	"3031 N ERIE AVE, TULSA, OK": {
+		"lat": 36.197505419213,
+		"lng": -95.915641555371,
+		"source": "census"
+	},
+	"5386 E 81 ST, TULSA, OK": {
+		"lat": 36.046305616589,
+		"lng": -95.913434122319,
+		"source": "census"
+	},
+	"736 N ROCKFORS AVE, TULSA, OK": {
+		"lat": 36.165181318367,
+		"lng": -95.972001508519,
+		"source": "census"
+	},
+	"4718 S 87 E AVE, Tulsa, OK": {
+		"lat": 36.095319938602,
+		"lng": -95.879647036088,
+		"source": "census"
+	},
+	"1010 N GARNETT RD, TULSA, OK": {
+		"lat": 36.167204596788,
+		"lng": -95.851183316633,
+		"source": "census"
+	},
+	"614 E 27 PL N, Tulsa, OK": {
+		"lat": 36.194130797659,
+		"lng": -95.986336303654,
+		"source": "census"
+	},
+	"5419 E XYLER ST, TULSA, OK": {
+		"lat": 36.187387685932,
+		"lng": -95.915290771265,
+		"source": "census"
+	},
+	"2814 E 97 PL, Tulsa, OK": {
+		"lat": 36.023502134136,
+		"lng": -95.946535567788,
+		"source": "census"
+	},
+	"7353 S DARLINGTON AVE, TULSA, OK 74136": {
+		"lat": 36.056661397658,
+		"lng": -95.918123690306,
+		"source": "census"
+	},
+	"7336 E KING ST, Tulsa, OK": {
+		"lat": 36.168430384892,
+		"lng": -95.895114599514,
+		"source": "census"
+	},
+	"3333 E NEWTON ST, Tulsa, OK": {
+		"lat": 36.173563988424,
+		"lng": -95.939940306972,
+		"source": "census"
+	},
+	"4600 N BOSTON AVE, Tulsa, OK": {
+		"lat": 36.220685596595,
+		"lng": -95.995161823745,
+		"source": "census"
+	},
+	"1221 N TRENTON AVE, TULSA, OK": {
+		"lat": 36.172338054967,
+		"lng": -95.969323448824,
+		"source": "census"
+	},
+	"6732 E PINE ST, Tulsa, OK": {
+		"lat": 36.177038300633,
+		"lng": -95.900828714576,
+		"source": "census"
+	},
+	"5932 E MARSHALL ST, Tulsa, OK": {
+		"lat": 36.171361624407,
+		"lng": -95.911369251377,
+		"source": "census"
+	},
+	"5100 S RIVERSIDE DR, TULSA, OK": {
+		"lat": 36.08970185938,
+		"lng": -95.984518282311,
+		"source": "census"
+	},
+	"5100 S RIVERSIDE DR, Tulsa, OK": {
+		"lat": 36.08970185938,
+		"lng": -95.984518282311,
+		"source": "census"
+	},
+	"13117 E 16 ST, Tulsa, OK": {
+		"lat": 36.140342689254,
+		"lng": -95.830767068085,
+		"source": "census"
+	},
+	"8910 E NEWTON ST, TULSA, OK 74115": {
+		"lat": 36.173793768833,
+		"lng": -95.877520396035,
+		"source": "census"
+	},
+	"1741 S LAKEWOOD AVE, TULSA, OK": {
+		"lat": 36.137671247647,
+		"lng": -95.908489486492,
+		"source": "census"
+	},
+	"9144 E 46 PL, Tulsa, OK": { "lat": 36.09667049519, "lng": -95.873601036845, "source": "census" },
+	"2536 E 55 PL S, TULSA, OK": {
+		"lat": 36.083348320095,
+		"lng": -95.954664042127,
+		"source": "census"
+	},
+	"1436 N DELAWARE AVE, TULSA, OK 74110": {
+		"lat": 36.175417373425,
+		"lng": -95.949850938298,
+		"source": "census"
+	},
+	"1414 S ERIE AVE, Tulsa, OK": {
+		"lat": 36.142092273024,
+		"lng": -95.916943204446,
+		"source": "census"
+	},
+	"506 W MARSHALL ST, Tulsa, OK": {
+		"lat": 36.171171748326,
+		"lng": -96.002113750614,
+		"source": "census"
+	},
+	"8330 S RIVERSIDE PKWY, Tulsa, OK": {
+		"lat": 36.042128048323,
+		"lng": -95.961947167697,
+		"source": "census"
+	},
+	"1725 SOUTHWEST BLVD, TULSA, OK 74107": {
+		"lat": 36.136679490897,
+		"lng": -96.006861171556,
+		"source": "census"
+	},
+	"8618 S 67TH E AVE, TULSA, Tulsa, OK": {
+		"lat": 36.038362610805,
+		"lng": -95.90153054521,
+		"source": "census"
+	},
+	"829 S QUINCY AVE, TULSA, OK 74120": {
+		"lat": 36.150005889591,
+		"lng": -95.973257296407,
+		"source": "census"
+	},
+	"4236 S DARLINGTON PL, Tulsa, OK": {
+		"lat": 36.102883151725,
+		"lng": -95.91625053966,
+		"source": "census"
+	},
+	"12412 E 15TH ST, TULSA, OK 74128": {
+		"lat": 36.141056466848,
+		"lng": -95.837676665099,
+		"source": "census"
+	},
+	"5626 S PEORIA PL, TULSA, OK": {
+		"lat": 36.082132591114,
+		"lng": -95.975160090834,
+		"source": "census"
+	},
+	"7835 E 3 ST, Tulsa, OK": { "lat": 36.157815036493, "lng": -95.890195343581, "source": "census" },
+	"1348 N CANTON AVE, TULSA, OK 74115": {
+		"lat": 36.174342032367,
+		"lng": -95.919214943523,
+		"source": "census"
+	},
+	"8105 E 21 ST, Tulsa, OK": { "lat": 36.133555735095, "lng": -95.88655711643, "source": "census" },
+	"629 W 1ST ST, TULSA, OK 74127": {
+		"lat": 36.152869668121,
+		"lng": -95.999522177679,
+		"source": "census"
+	},
+	"7325 S FULTON AVE, TULSA, OK 74136": {
+		"lat": 36.056634401999,
+		"lng": -95.91605074988,
+		"source": "census"
+	},
+	"11711 E 20 ST, Tulsa, OK": {
+		"lat": 36.135108499707,
+		"lng": -95.845580379993,
+		"source": "census"
+	},
+	"5630 S 89 E AVE, TULSA ,OK 74145, Tulsa, OK": {
+		"lat": 36.081147022173,
+		"lng": -95.876989729787,
+		"source": "census"
+	},
+	"11545 E 27TH CT, TULSA, OK": {
+		"lat": 36.123843360779,
+		"lng": -95.847903016966,
+		"source": "census"
+	},
+	"1304 N MAPLEWOOD AVE, TULSA, OK 74115": {
+		"lat": 36.173124623197,
+		"lng": -95.908472618424,
+		"source": "census"
+	},
+	"317 S PHOENIX AVE, Tulsa, OK": {
+		"lat": 36.150019754434,
+		"lng": -96.00580053087,
+		"source": "census"
+	},
+	"6335 E 9 ST APT 42, TULSA, OK": {
+		"lat": 36.149575802783,
+		"lng": -95.906385439822,
+		"source": "census"
+	},
+	"755 W 22 ST, TULSA, OK": { "lat": 36.131696225542, "lng": -96.003989385679, "source": "census" },
+	"4014 E WOODROW PL, Tulsa, OK": {
+		"lat": 36.186736851006,
+		"lng": -95.930686789437,
+		"source": "census"
+	},
+	"2212 E 67 ST, Tulsa, OK": {
+		"lat": 36.065759920224,
+		"lng": -95.959869543885,
+		"source": "census"
+	},
+	"11521 E 7 PL S, TULSA, OK": {
+		"lat": 36.152013788067,
+		"lng": -95.8472350815,
+		"source": "census"
+	},
+	"2528 N MAIN ST, TULSA, OK": {
+		"lat": 36.190445524229,
+		"lng": -95.997015254719,
+		"source": "census"
+	},
+	"2124 N BIRMINGHAM AVE, TULSA, OK 74110": {
+		"lat": 36.184726630009,
+		"lng": -95.953993892318,
+		"source": "census"
+	},
+	"6708 S ZUNIS AVE, TULSA, OK 74136": {
+		"lat": 36.066694795966,
+		"lng": -95.961105273257,
+		"source": "census"
+	},
+	"4235 S 27 W AVE, TULSA, OK 74107": {
+		"lat": 36.101311499239,
+		"lng": -96.022695890727,
+		"source": "census"
+	},
+	"3420 S NEW HAVEN AVE, TULSA, OK": {
+		"lat": 36.114037035624,
+		"lng": -95.933613639715,
+		"source": "census"
+	},
+	"1323 N UNION AVE, Tulsa, OK": {
+		"lat": 36.173200006235,
+		"lng": -96.010793965777,
+		"source": "census"
+	},
+	"7512 S 68 E AVE, Tulsa, OK": {
+		"lat": 36.054745529175,
+		"lng": -95.901676945595,
+		"source": "census"
+	},
+	"2247 S MAYBELLE AVE, Tulsa, OK": {
+		"lat": 36.131023524192,
+		"lng": -96.001880253464,
+		"source": "census"
+	},
+	"2243 N QUINCY AVE, Tulsa, OK": {
+		"lat": 36.186389532,
+		"lng": -95.973187526817,
+		"source": "census"
+	},
+	"7229 E 32 PL, TULSA, OK 74145": {
+		"lat": 36.116752485749,
+		"lng": -95.896455285001,
+		"source": "census"
+	},
+	"9706 S 101ST E AVE, TULSA, OK 74133": {
+		"lat": 36.022546158713,
+		"lng": -95.864280514756,
+		"source": "census"
+	},
+	"719 N ST LOUIS AVE, Tulsa, OK": {
+		"lat": 36.164577245003,
+		"lng": -95.970491408828,
+		"source": "census"
+	},
+	"6534 S NEWPORT AVE, TULSA, OK 74136": {
+		"lat": 36.068513485999,
+		"lng": -95.978209841785,
+		"source": "census"
+	},
+	"1212 N MINGO RD, Tulsa, OK": {
+		"lat": 36.172512730251,
+		"lng": -95.868816662533,
+		"source": "census"
+	},
+	"7102 S 92 E AVE, Tulsa, OK": {
+		"lat": 36.060838143661,
+		"lng": -95.873662675444,
+		"source": "census"
+	},
+	"7823 S WHEELING AVE, Tulsa, OK": {
+		"lat": 36.050739725106,
+		"lng": -95.964292561626,
+		"source": "census"
+	},
+	"3708 E 36 ST N, Tulsa, OK": {
+		"lat": 36.206062559889,
+		"lng": -95.93655211528,
+		"source": "census"
+	},
+	"5780 E 27 ST, TULSA, OK": {
+		"lat": 36.123890643079,
+		"lng": -95.911519032008,
+		"source": "census"
+	},
+	"2405 S MAYBELLE AVE, TULSA, OK 74107": {
+		"lat": 36.127784372578,
+		"lng": -96.001817135344,
+		"source": "census"
+	},
+	"4308 E KING ST, TULSA, OK 74115": {
+		"lat": 36.167931540513,
+		"lng": -95.928995414109,
+		"source": "census"
+	},
+	"12932 E 33 ST, TULSA, OK 74134": {
+		"lat": 36.11506531513,
+		"lng": -95.832008019641,
+		"source": "census"
+	},
+	"4509 E XYLER ST, TULSA, OK": {
+		"lat": 36.187624813145,
+		"lng": -95.926469245731,
+		"source": "census"
+	},
+	"4717 S YALE AVE, Tulsa, OK": {
+		"lat": 36.094234216655,
+		"lng": -95.922182808971,
+		"source": "census"
+	},
+	"1557 E 60 ST, Tulsa, OK": {
+		"lat": 36.077072913402,
+		"lng": -95.970054659783,
+		"source": "census"
+	},
+	"764 E 39, Tulsa, OK": { "lat": 36.106147881508, "lng": -95.980547691554, "source": "census" },
+	"403 S CHEYENNE AVE, Tulsa, OK": {
+		"lat": 36.151541971237,
+		"lng": -95.992867751777,
+		"source": "census"
+	},
+	"102 W 65 PL N, Tulsa, OK": {
+		"lat": 36.249020292832,
+		"lng": -95.997329239209,
+		"source": "census"
+	},
+	"4509 E XYLER ST, Tulsa, OK": {
+		"lat": 36.187624813145,
+		"lng": -95.926469245731,
+		"source": "census"
+	},
+	"1825 E 66 ST, TULSA, OK 74136": {
+		"lat": 36.06864383305,
+		"lng": -95.96482087932,
+		"source": "census"
+	},
+	"6416 E ARCHER ST, TULSA, OK": {
+		"lat": 36.162539303456,
+		"lng": -95.905502394265,
+		"source": "census"
+	},
+	"7 N YALE AVE, TULSA, OK": {
+		"lat": 36.159890812142,
+		"lng": -95.922417884923,
+		"source": "census"
+	},
+	"1600 E LATIMER ST, TULSA, OK": {
+		"lat": 36.16968716945,
+		"lng": -95.9692817424,
+		"source": "census"
+	},
+	"14035 E 24 ST S, TULSA, OK": {
+		"lat": 36.128982518254,
+		"lng": -95.819912275131,
+		"source": "census"
+	},
+	"11026 E 18 ST S, TULSA, OK 74128": {
+		"lat": 36.136290150883,
+		"lng": -95.853489122615,
+		"source": "census"
+	},
+	"2181 N HARTFORD AVE, TULSA ,OK, Tulsa, OK": {
+		"lat": 36.185834691396,
+		"lng": -95.984499885234,
+		"source": "census"
+	},
+	"442 S 53 W AVE, TULSA, OK 74127": {
+		"lat": 36.150632098397,
+		"lng": -96.051777475143,
+		"source": "census"
+	},
+	"1946 E 26TH PL N, TULSA, OK 74110": {
+		"lat": 36.192419301176,
+		"lng": -95.964304354218,
+		"source": "census"
+	},
+	"1701 E 1ST ST, TULSA, OK 74104": {
+		"lat": 36.158692837886,
+		"lng": -95.966425200311,
+		"source": "census"
+	},
+	"2315 S 119TH E AVE, TULSA, OK 74129": {
+		"lat": 36.129895892127,
+		"lng": -95.842821556894,
+		"source": "census"
+	},
+	"6818 S TOLEDO AVE, TULSA, OK 74136": {
+		"lat": 36.064687507995,
+		"lng": -95.926097991411,
+		"source": "census"
+	},
+	"1929 S CHEYENNE AVE, TULSA, OK 74119": {
+		"lat": 36.134566770899,
+		"lng": -95.990046825783,
+		"source": "census"
+	},
+	"1820 W 62ND ST, TULSA, OK 74145": {
+		"lat": 36.073070388545,
+		"lng": -96.013181671462,
+		"source": "census"
+	},
+	"1747 S BOSTON AVE, TULSA, OK 74119": {
+		"lat": 36.137053096614,
+		"lng": -95.985023144393,
+		"source": "census"
+	},
+	"1619 S ATLANTA PL, Tulsa, OK": {
+		"lat": 36.138519006294,
+		"lng": -95.954801546971,
+		"source": "census"
+	},
+	"1003 E ZION CT, TULSA, OK 74106": {
+		"lat": 36.190598349436,
+		"lng": -95.979331584356,
+		"source": "census"
+	},
+	"3514 S 121 E AVE, TULSA, OK 74146": {
+		"lat": 36.111681377216,
+		"lng": -95.842759650467,
+		"source": "census"
+	},
+	"2144 S TOLEDO AVE, TULSA, OK 74114": {
+		"lat": 36.132068181313,
+		"lng": -95.927379186232,
+		"source": "census"
+	},
+	"841 N COLLEGE AVE, TULSA, OK 74110": {
+		"lat": 36.16666045802,
+		"lng": -95.945782439531,
+		"source": "census"
+	},
+	"7207 E 90TH ST, TULSA, OK 74133": {
+		"lat": 36.033272821979,
+		"lng": -95.89464824956,
+		"source": "census"
+	},
+	"1911 E 49 ST APT214, TULSA, OK 74105": {
+		"lat": 36.092058988654,
+		"lng": -95.963787451219,
+		"source": "census"
+	},
+	"806 E 32 PL N, TULSA, OK 74106": {
+		"lat": 36.201628836252,
+		"lng": -95.981810785533,
+		"source": "census"
+	},
+	"1767 E 14TH PL, TULSA, OK": {
+		"lat": 36.141628528252,
+		"lng": -95.96605883807,
+		"source": "census"
+	},
+	"3741 N HARTFORD AVE, TULSA, OK 74106": {
+		"lat": 36.208285706093,
+		"lng": -95.984524062874,
+		"source": "census"
+	},
+	"9144 E 46TH PL S, TULSA, OK 74145": {
+		"lat": 36.09667049519,
+		"lng": -95.873601036845,
+		"source": "census"
+	},
+	"16916 E 14TH ST, TULSA, OK 74108": {
+		"lat": 36.142474987993,
+		"lng": -95.788210925314,
+		"source": "census"
+	},
+	"4869 S BRADEN AVE, TULSA, OK": {
+		"lat": 36.091811144017,
+		"lng": -95.919984090353,
+		"source": "census"
+	},
+	"4933 S PEORIA AVE, Tulsa, OK": {
+		"lat": 36.091908429011,
+		"lng": -95.975649225094,
+		"source": "census"
+	},
+	"549 E 54 ST N, TULSA, OK": {
+		"lat": 36.231390223544,
+		"lng": -95.987247910306,
+		"source": "census"
+	},
+	"8001 S MINGO RD, TULSA, OK 74133": {
+		"lat": 36.048215202103,
+		"lng": -95.868428118772,
+		"source": "census"
+	},
+	"10899 E 33RD CT, TULSA, OK 74146": {
+		"lat": 36.114186615212,
+		"lng": -95.855251283434,
+		"source": "census"
+	},
+	"11815 E 37TH PL S, TULSA, OK 74146": {
+		"lat": 36.109312481571,
+		"lng": -95.846880059497,
+		"source": "census"
+	},
+	"408 S VICTOR AVE, TULSA, OK": {
+		"lat": 36.154913322957,
+		"lng": -95.966016378906,
+		"source": "census"
+	},
+	"4755 N ZUNIS AVE, TULSA, OK 74130": {
+		"lat": 36.223869995041,
+		"lng": -95.960410730189,
+		"source": "census"
+	},
+	"8941 S DARLINGTON AVE, Tulsa, OK": {
+		"lat": 36.034510250724,
+		"lng": -95.916615495716,
+		"source": "census"
+	},
+	"9005 S HUDSON AVE, TULSA, OK 74137": {
+		"lat": 36.033240485113,
+		"lng": -95.913257701686,
+		"source": "census"
+	},
+	"1544 E 53RD ST N, TULSA, OK": {
+		"lat": 36.230564134874,
+		"lng": -95.970232875483,
+		"source": "census"
+	},
+	"7147 E MARSHALL ST, Tulsa, OK": {
+		"lat": 36.171246644858,
+		"lng": -95.89731252228,
+		"source": "census"
+	},
+	"1932 N DELAWARE AVE, TULSA, OK 74110": {
+		"lat": 36.182423788774,
+		"lng": -95.949954309103,
+		"source": "census"
+	},
+	"9897 E 11 ST, Tulsa, OK": {
+		"lat": 36.148071742761,
+		"lng": -95.866728981861,
+		"source": "census"
+	},
+	"9000 E ADMIRAL PL, Tulsa, OK": {
+		"lat": 36.160662727403,
+		"lng": -95.876385089482,
+		"source": "census"
+	},
+	"2402 N MARION AVE, TULSA, OK": {
+		"lat": 36.188527438829,
+		"lng": -95.934070826455,
+		"source": "census"
+	},
+	"2138 N DELAWARE AVE, 74110, Tulsa, OK": {
+		"lat": 36.185113614963,
+		"lng": -95.949328390647,
+		"source": "census"
+	},
+	"8711 E 71ST ST S, Tulsa, OK": {
+		"lat": 36.060943860717,
+		"lng": -95.879688755488,
+		"source": "census"
+	},
+	"4908 E 4TH ST S, 74112, Tulsa, OK": {
+		"lat": 36.155898961886,
+		"lng": -95.922321969859,
+		"source": "census"
+	},
+	"252 W 17TH PL S, TULSA, OK 74119": {
+		"lat": 36.136907921984,
+		"lng": -95.991391141525,
+		"source": "census"
+	},
+	"2814 E 43 ST N, Tulsa, OK": {
+		"lat": 36.216311763612,
+		"lng": -95.948607169452,
+		"source": "census"
+	}
+}

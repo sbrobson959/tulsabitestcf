@@ -1,39 +1,45 @@
 {
-	"name": "bitemap",
+	"name": "bites2",
+	"version": "0.1.0",
 	"private": true,
-	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
+		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+		"lint": "prettier --check . && svelte-check --tsconfig ./tsconfig.json",
 		"format": "prettier --write .",
-		"lint": "prettier --check . && eslint ."
+		"pipeline": "tsx scripts/run.ts"
 	},
 	"devDependencies": {
-		"@eslint/compat": "^1.4.0",
-		"@eslint/js": "^9.36.0",
-		"@sveltejs/adapter-vercel": "^5.10.2",
-		"@sveltejs/kit": "^2.43.2",
-		"@sveltejs/vite-plugin-svelte": "^6.2.0",
-		"@tailwindcss/vite": "^4.1.13",
-		"@types/node": "^22",
-		"eslint": "^9.36.0",
-		"eslint-config-prettier": "^10.1.8",
-		"eslint-plugin-svelte": "^3.12.4",
-		"globals": "^16.4.0",
-		"prettier": "^3.6.2",
-		"prettier-plugin-svelte": "^3.4.0",
-		"prettier-plugin-tailwindcss": "^0.6.14",
-		"svelte": "^5.39.5",
-		"tailwindcss": "^4.1.13",
-		"vite": "^7.1.7"
+		"@sveltejs/adapter-vercel": "^6.0.0",
+		"@sveltejs/kit": "^2.69.2",
+		"@sveltejs/vite-plugin-svelte": "^6.2.1",
+		"@tailwindcss/vite": "^4.3.2",
+		"@types/node": "^26.2.0",
+		"@types/papaparse": "^5.3.15",
+		"@types/supercluster": "^7.1.3",
+		"prettier": "^3.9.5",
+		"prettier-plugin-svelte": "^4.1.1",
+		"prettier-plugin-tailwindcss": "^0.7.2",
+		"puppeteer-core": "^25.8.0",
+		"svelte": "^5.56.4",
+		"svelte-check": "^4.7.4",
+		"tailwindcss": "^4.3.2",
+		"tsx": "^4.20.6",
+		"typescript": "^5.9.3",
+		"vite": "^7.2.6"
 	},
-	"pnpm": {
-		"onlyBuiltDependencies": [
-			"esbuild",
-			"@tailwindcss/oxide"
-		]
+	"dependencies": {
+		"@deck.gl/core": "^9.3.10",
+		"@deck.gl/layers": "^9.3.10",
+		"@deck.gl/mapbox": "^9.3.10",
+		"@vercel/blob": "^2.8.0",
+		"mapbox-gl": "^3.28.1",
+		"papaparse": "^5.5.3",
+		"supercluster": "^9.0.0",
+		"write-excel-file": "^4.1.1"
 	}
 }
